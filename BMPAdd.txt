@@ -1,0 +1,76 @@
+#####################################################
+Korean Readings in CJK Unified Ideographs BMP Added
+by Damheo Lee with The MIT License (MIT)
+#####################################################
+
+#HEX	Hanja	Reading
+
+U+9FA6	龦	상
+U+9FA7	龧	서
+U+9FA8	龨	회
+U+9FA9	龩	근
+U+9FAA	龪	점,부
+U+9FAB	龫	간,알
+U+9FAC	龬	망
+U+9FAD	龭	이
+U+9FAE	龮	기
+U+9FAF	龯	월
+U+9FB0	龰	지
+U+9FB1	龱	사
+U+9FB2	龲	고
+U+9FB3	龳	륙,순
+U+9FB4	龴	마
+U+9FB5	龵	수
+U+9FB6	龶	봉
+U+9FB7	龷	구
+U+9FB8	龸	소
+U+9FB9	龹	권
+U+9FBA	龺	탁
+U+9FBB	龻	란
+U+9FBC	龼	예
+U+9FBD	龽	초
+U+9FBE	龾	국
+U+9FBF	龿	가
+U+9FC0	鿀	의
+U+9FC1	鿁	홍
+U+9FC2	鿂	조
+U+9FC3	鿃	섬
+U+9FC4	鿄	량
+U+9FC5	鿅	령
+U+9FC6	鿆	발
+U+9FC7	鿇	쟁
+U+9FC8	鿈	척
+U+9FC9	鿉	오
+U+9FCA	鿊	지
+U+9FCB	鿋	희
+U+9FCC	鿌	량
+U+9FCD	鿍	강
+U+9FCE	鿎	달
+U+9FCF	鿏	맘
+U+9FD0	鿐	주
+U+9FD1	鿑	각
+U+9FD2	鿒	엽
+U+9FD3	鿓	엽
+U+9FD4	鿔	가
+U+9FD5	鿕	단
+U+9FD6	鿖	합
+U+9FD7	鿗	이
+U+9FD8	鿘	합
+U+9FD9	鿙	극
+U+9FDA	鿚	격
+U+9FDB	鿛	릉
+U+9FDC	鿜	랍
+U+9FDD	鿝	릉
+U+9FDE	鿞	렬
+U+9FDF	鿟	리
+U+9FE0	鿠	리
+U+9FE1	鿡	라
+U+9FE2	鿢	합
+U+9FE3	鿣	극
+U+9FE4	鿤	격
+U+9FE5	鿥	랑
+U+9FE6	鿦	영
+U+9FE7	鿧	륭
+U+9FE8	鿨	뢰
+U+9FE9	鿩	로
+U+9FEA	鿪	수

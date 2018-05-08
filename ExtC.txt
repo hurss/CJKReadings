@@ -1,0 +1,4156 @@
+#####################################################
+Korean Readings in CJK Unified Ideographs Extension C
+by Damheo Lee with The MIT License (MIT)
+#####################################################
+
+#HEX	Hanja	Reading
+
+U+2A700	𪜀	등
+U+2A701	𪜁	벌
+U+2A702	𪜂	와
+U+2A703	𪜃	사
+U+2A704	𪜄	파
+U+2A705	𪜅	심
+U+2A706	𪜆	련
+U+2A707	𪜇	험
+U+2A708	𪜈	모
+U+2A709	𪜉	양
+U+2A70A	𪜊	
+U+2A70B	𪜋	
+U+2A70C	𪜌	
+U+2A70D	𪜍	천
+U+2A70E	𪜎	교
+U+2A70F	𪜏	행
+U+2A710	𪜐	
+U+2A711	𪜑	말
+U+2A712	𪜒	길
+U+2A713	𪜓	걸
+U+2A714	𪜔	
+U+2A715	𪜕	도
+U+2A716	𪜖	실
+U+2A717	𪜗	
+U+2A718	𪜘	파
+U+2A719	𪜙	수
+U+2A71A	𪜚	매
+U+2A71B	𪜛	포
+U+2A71C	𪜜	
+U+2A71D	𪜝	기
+U+2A71E	𪜞	진
+U+2A71F	𪜟	
+U+2A720	𪜠	항
+U+2A721	𪜡	
+U+2A722	𪜢	보
+U+2A723	𪜣	곤
+U+2A724	𪜤	
+U+2A725	𪜥	름
+U+2A726	𪜦	정
+U+2A727	𪜧	
+U+2A728	𪜨	녕
+U+2A729	𪜩	구
+U+2A72A	𪜪	
+U+2A72B	𪜫	축
+U+2A72C	𪜬	여
+U+2A72D	𪜭	개
+U+2A72E	𪜮	목
+U+2A72F	𪜯	령
+U+2A730	𪜰	
+U+2A731	𪜱	예
+U+2A732	𪜲	
+U+2A733	𪜳	면
+U+2A734	𪜴	
+U+2A735	𪜵	계
+U+2A736	𪜶	인
+U+2A737	𪜷	타
+U+2A738	𪜸	자
+U+2A739	𪜹	우
+U+2A73A	𪜺	주
+U+2A73B	𪜻	적;낭
+U+2A73C	𪜼	우
+U+2A73D	𪜽	리
+U+2A73E	𪜾	주
+U+2A73F	𪜿	언
+U+2A740	𪝀	각
+U+2A741	𪝁	잇
+U+2A742	𪝂	
+U+2A743	𪝃	차
+U+2A744	𪝄	과
+U+2A745	𪝅	매
+U+2A746	𪝆	방
+U+2A747	𪝇	
+U+2A748	𪝈	수
+U+2A749	𪝉	조
+U+2A74A	𪝊	저
+U+2A74B	𪝋	상
+U+2A74C	𪝌	묘
+U+2A74D	𪝍	호
+U+2A74E	𪝎	령
+U+2A74F	𪝏	
+U+2A750	𪝐	
+U+2A751	𪝑	온
+U+2A752	𪝒	가
+U+2A753	𪝓	일
+U+2A754	𪝔	원
+U+2A755	𪝕	번
+U+2A756	𪝖	공
+U+2A757	𪝗	윤
+U+2A758	𪝘	유
+U+2A759	𪝙	
+U+2A75A	𪝚	
+U+2A75B	𪝛	은
+U+2A75C	𪝜	사
+U+2A75D	𪝝	
+U+2A75E	𪝞	일
+U+2A75F	𪝟	
+U+2A760	𪝠	재
+U+2A761	𪝡	모
+U+2A762	𪝢	
+U+2A763	𪝣	기
+U+2A764	𪝤	
+U+2A765	𪝥	유
+U+2A766	𪝦	
+U+2A767	𪝧	
+U+2A768	𪝨	걸
+U+2A769	𪝩	비
+U+2A76A	𪝪	가
+U+2A76B	𪝫	엄
+U+2A76C	𪝬	쇄
+U+2A76D	𪝭	우
+U+2A76E	𪝮	선
+U+2A76F	𪝯	득
+U+2A770	𪝰	마
+U+2A771	𪝱	최
+U+2A772	𪝲	추
+U+2A773	𪝳	흔
+U+2A774	𪝴	천
+U+2A775	𪝵	
+U+2A776	𪝶	
+U+2A777	𪝷	예
+U+2A778	𪝸	민
+U+2A779	𪝹	묘
+U+2A77A	𪝺	하
+U+2A77B	𪝻	쇄
+U+2A77C	𪝼	
+U+2A77D	𪝽	
+U+2A77E	𪝾	춘
+U+2A77F	𪝿	두
+U+2A780	𪞀	광
+U+2A781	𪞁	토
+U+2A782	𪞂	
+U+2A783	𪞃	성
+U+2A784	𪞄	
+U+2A785	𪞅	태
+U+2A786	𪞆	찬
+U+2A787	𪞇	분
+U+2A788	𪞈	
+U+2A789	𪞉	공
+U+2A78A	𪞊	상
+U+2A78B	𪞋	공
+U+2A78C	𪞌	
+U+2A78D	𪞍	겸
+U+2A78E	𪞎	고
+U+2A78F	𪞏	완
+U+2A790	𪞐	한
+U+2A791	𪞑	
+U+2A792	𪞒	관
+U+2A793	𪞓	석
+U+2A794	𪞔	
+U+2A795	𪞕	과
+U+2A796	𪞖	범
+U+2A797	𪞗	예
+U+2A798	𪞘	금
+U+2A799	𪞙	문
+U+2A79A	𪞚	탁
+U+2A79B	𪞛	전
+U+2A79C	𪞜	박
+U+2A79D	𪞝	탁
+U+2A79E	𪞞	성
+U+2A79F	𪞟	
+U+2A7A0	𪞠	면
+U+2A7A1	𪞡	사
+U+2A7A2	𪞢	애
+U+2A7A3	𪞣	호
+U+2A7A4	𪞤	념
+U+2A7A5	𪞥	종
+U+2A7A6	𪞦	위
+U+2A7A7	𪞧	대
+U+2A7A8	𪞨	정
+U+2A7A9	𪞩	회
+U+2A7AA	𪞪	부
+U+2A7AB	𪞫	수
+U+2A7AC	𪞬	장
+U+2A7AD	𪞭	요
+U+2A7AE	𪞮	령
+U+2A7AF	𪞯	호
+U+2A7B0	𪞰	틈
+U+2A7B1	𪞱	각
+U+2A7B2	𪞲	점
+U+2A7B3	𪞳	승
+U+2A7B4	𪞴	기
+U+2A7B5	𪞵	설
+U+2A7B6	𪞶	자
+U+2A7B7	𪞷	라
+U+2A7B8	𪞸	오
+U+2A7B9	𪞹	인
+U+2A7BA	𪞺	유
+U+2A7BB	𪞻	우
+U+2A7BC	𪞼	선
+U+2A7BD	𪞽	농
+U+2A7BE	𪞾	부
+U+2A7BF	𪞿	
+U+2A7C0	𪟀	방
+U+2A7C1	𪟁	
+U+2A7C2	𪟂	점
+U+2A7C3	𪟃	
+U+2A7C4	𪟄	역
+U+2A7C5	𪟅	결
+U+2A7C6	𪟆	육
+U+2A7C7	𪟇	완
+U+2A7C8	𪟈	
+U+2A7C9	𪟉	고
+U+2A7CA	𪟊	오;과
+U+2A7CB	𪟋	인
+U+2A7CC	𪟌	
+U+2A7CD	𪟍	통
+U+2A7CE	𪟎	감
+U+2A7CF	𪟏	잉
+U+2A7D0	𪟐	쟁
+U+2A7D1	𪟑	분
+U+2A7D2	𪟒	족
+U+2A7D3	𪟓	곤
+U+2A7D4	𪟔	
+U+2A7D5	𪟕	기
+U+2A7D6	𪟖	진
+U+2A7D7	𪟗	가
+U+2A7D8	𪟘	구
+U+2A7D9	𪟙	긍
+U+2A7DA	𪟚	명
+U+2A7DB	𪟛	핵
+U+2A7DC	𪟜	사
+U+2A7DD	𪟝	적
+U+2A7DE	𪟞	재
+U+2A7DF	𪟟	면
+U+2A7E0	𪟠	력
+U+2A7E1	𪟡	가
+U+2A7E2	𪟢	뉵
+U+2A7E3	𪟣	탁
+U+2A7E4	𪟤	롱
+U+2A7E5	𪟥	화
+U+2A7E6	𪟦	추
+U+2A7E7	𪟧	뇨
+U+2A7E8	𪟨	
+U+2A7E9	𪟩	의;현
+U+2A7EA	𪟪	배
+U+2A7EB	𪟫	해
+U+2A7EC	𪟬	
+U+2A7ED	𪟭	신
+U+2A7EE	𪟮	양
+U+2A7EF	𪟯	리
+U+2A7F0	𪟰	
+U+2A7F1	𪟱	
+U+2A7F2	𪟲	
+U+2A7F3	𪟳	오
+U+2A7F4	𪟴	건
+U+2A7F5	𪟵	조
+U+2A7F6	𪟶	
+U+2A7F7	𪟷	모
+U+2A7F8	𪟸	방
+U+2A7F9	𪟹	령
+U+2A7FA	𪟺	수
+U+2A7FB	𪟻	준
+U+2A7FC	𪟼	졸
+U+2A7FD	𪟽	의
+U+2A7FE	𪟾	부
+U+2A7FF	𪟿	
+U+2A800	𪠀	할
+U+2A801	𪠁	합
+U+2A802	𪠂	즉
+U+2A803	𪠃	
+U+2A804	𪠄	
+U+2A805	𪠅	
+U+2A806	𪠆	
+U+2A807	𪠇	적
+U+2A808	𪠈	민
+U+2A809	𪠉	력
+U+2A80A	𪠊	
+U+2A80B	𪠋	직
+U+2A80C	𪠌	경
+U+2A80D	𪠍	
+U+2A80E	𪠎	
+U+2A80F	𪠏	염
+U+2A810	𪠐	안
+U+2A811	𪠑	박
+U+2A812	𪠒	
+U+2A813	𪠓	광
+U+2A814	𪠔	구;궤
+U+2A815	𪠕	안
+U+2A816	𪠖	박
+U+2A817	𪠗	
+U+2A818	𪠘	해
+U+2A819	𪠙	롱
+U+2A81A	𪠚	력
+U+2A81B	𪠛	엄
+U+2A81C	𪠜	패
+U+2A81D	𪠝	
+U+2A81E	𪠞	다
+U+2A81F	𪠟	침
+U+2A820	𪠠	해
+U+2A821	𪠡	삼
+U+2A822	𪠢	광
+U+2A823	𪠣	우
+U+2A824	𪠤	도
+U+2A825	𪠥	유
+U+2A826	𪠦	판
+U+2A827	𪠧	천
+U+2A828	𪠨	수
+U+2A829	𪠩	서
+U+2A82A	𪠪	가
+U+2A82B	𪠫	반
+U+2A82C	𪠬	감
+U+2A82D	𪠭	반
+U+2A82E	𪠮	용
+U+2A82F	𪠯	구
+U+2A830	𪠰	철
+U+2A831	𪠱	겁
+U+2A832	𪠲	곡
+U+2A833	𪠳	차
+U+2A834	𪠴	문
+U+2A835	𪠵	륜
+U+2A836	𪠶	좌
+U+2A837	𪠷	
+U+2A838	𪠸	랍
+U+2A839	𪠹	투
+U+2A83A	𪠺	집
+U+2A83B	𪠻	류
+U+2A83C	𪠼	육
+U+2A83D	𪠽	당
+U+2A83E	𪠾	주
+U+2A83F	𪠿	죽
+U+2A840	𪡀	교
+U+2A841	𪡁	충
+U+2A842	𪡂	모
+U+2A843	𪡃	매
+U+2A844	𪡄	갑
+U+2A845	𪡅	악
+U+2A846	𪡆	금
+U+2A847	𪡇	니
+U+2A848	𪡈	백
+U+2A849	𪡉	려
+U+2A84A	𪡊	
+U+2A84B	𪡋	엄
+U+2A84C	𪡌	자
+U+2A84D	𪡍	
+U+2A84E	𪡎	령
+U+2A84F	𪡏	련
+U+2A850	𪡐	우;회
+U+2A851	𪡑	여
+U+2A852	𪡒	
+U+2A853	𪡓	곤
+U+2A854	𪡔	라
+U+2A855	𪡕	물
+U+2A856	𪡖	인
+U+2A857	𪡗	근
+U+2A858	𪡘	선
+U+2A859	𪡙	랑
+U+2A85A	𪡚	
+U+2A85B	𪡛	하
+U+2A85C	𪡜	
+U+2A85D	𪡝	
+U+2A85E	𪡞	귀
+U+2A85F	𪡟	사
+U+2A860	𪡠	천
+U+2A861	𪡡	시
+U+2A862	𪡢	
+U+2A863	𪡣	연
+U+2A864	𪡤	순
+U+2A865	𪡥	홍
+U+2A866	𪡦	치
+U+2A867	𪡧	추
+U+2A868	𪡨	시
+U+2A869	𪡩	탄
+U+2A86A	𪡪	
+U+2A86B	𪡫	원
+U+2A86C	𪡬	호
+U+2A86D	𪡭	배
+U+2A86E	𪡮	재
+U+2A86F	𪡯	문
+U+2A870	𪡰	즉
+U+2A871	𪡱	모
+U+2A872	𪡲	
+U+2A873	𪡳	소
+U+2A874	𪡴	기
+U+2A875	𪡵	연
+U+2A876	𪡶	원
+U+2A877	𪡷	제
+U+2A878	𪡸	접
+U+2A879	𪡹	학
+U+2A87A	𪡺	래
+U+2A87B	𪡻	구
+U+2A87C	𪡼	효
+U+2A87D	𪡽	거
+U+2A87E	𪡾	
+U+2A87F	𪡿	경
+U+2A880	𪢀	
+U+2A881	𪢁	박
+U+2A882	𪢂	
+U+2A883	𪢃	좌
+U+2A884	𪢄	육
+U+2A885	𪢅	악
+U+2A886	𪢆	
+U+2A887	𪢇	
+U+2A888	𪢈	루
+U+2A889	𪢉	통
+U+2A88A	𪢊	중
+U+2A88B	𪢋	가
+U+2A88C	𪢌	란
+U+2A88D	𪢍	치
+U+2A88E	𪢎	성
+U+2A88F	𪢏	지
+U+2A890	𪢐	뢰
+U+2A891	𪢑	함
+U+2A892	𪢒	수
+U+2A893	𪢓	
+U+2A894	𪢔	
+U+2A895	𪢕	철
+U+2A896	𪢖	온
+U+2A897	𪢗	밀
+U+2A898	𪢘	랄
+U+2A899	𪢙	격;찬
+U+2A89A	𪢚	촬
+U+2A89B	𪢛	쟁
+U+2A89C	𪢜	
+U+2A89D	𪢝	덕
+U+2A89E	𪢞	향
+U+2A89F	𪢟	
+U+2A8A0	𪢠	란
+U+2A8A1	𪢡	
+U+2A8A2	𪢢	의
+U+2A8A3	𪢣	명
+U+2A8A4	𪢤	
+U+2A8A5	𪢥	변
+U+2A8A6	𪢦	가
+U+2A8A7	𪢧	은
+U+2A8A8	𪢨	
+U+2A8A9	𪢩	비
+U+2A8AA	𪢪	함
+U+2A8AB	𪢫	위
+U+2A8AC	𪢬	곤
+U+2A8AD	𪢭	
+U+2A8AE	𪢮	란
+U+2A8AF	𪢯	
+U+2A8B0	𪢰	환
+U+2A8B1	𪢱	사
+U+2A8B2	𪢲	한
+U+2A8B3	𪢳	걱
+U+2A8B4	𪢴	토
+U+2A8B5	𪢵	범
+U+2A8B6	𪢶	
+U+2A8B7	𪢷	
+U+2A8B8	𪢸	무
+U+2A8B9	𪢹	
+U+2A8BA	𪢺	기
+U+2A8BB	𪢻	월;정
+U+2A8BC	𪢼	
+U+2A8BD	𪢽	봉
+U+2A8BE	𪢾	조
+U+2A8BF	𪢿	전
+U+2A8C0	𪣀	이
+U+2A8C1	𪣁	윤
+U+2A8C2	𪣂	
+U+2A8C3	𪣃	병
+U+2A8C4	𪣄	안
+U+2A8C5	𪣅	
+U+2A8C6	𪣆	동
+U+2A8C7	𪣇	
+U+2A8C8	𪣈	
+U+2A8C9	𪣉	영
+U+2A8CA	𪣊	
+U+2A8CB	𪣋	존
+U+2A8CC	𪣌	
+U+2A8CD	𪣍	장
+U+2A8CE	𪣎	주
+U+2A8CF	𪣏	주
+U+2A8D0	𪣐	장
+U+2A8D1	𪣑	농
+U+2A8D2	𪣒	혼
+U+2A8D3	𪣓	
+U+2A8D4	𪣔	오
+U+2A8D5	𪣕	극
+U+2A8D6	𪣖	점
+U+2A8D7	𪣗	진
+U+2A8D8	𪣘	오
+U+2A8D9	𪣙	제
+U+2A8DA	𪣚	언
+U+2A8DB	𪣛	리
+U+2A8DC	𪣜	
+U+2A8DD	𪣝	조
+U+2A8DE	𪣞	
+U+2A8DF	𪣟	한
+U+2A8E0	𪣠	선
+U+2A8E1	𪣡	
+U+2A8E2	𪣢	
+U+2A8E3	𪣣	군
+U+2A8E4	𪣤	착
+U+2A8E5	𪣥	무
+U+2A8E6	𪣦	명
+U+2A8E7	𪣧	창
+U+2A8E8	𪣨	
+U+2A8E9	𪣩	긍
+U+2A8EA	𪣪	승
+U+2A8EB	𪣫	각
+U+2A8EC	𪣬	관
+U+2A8ED	𪣭	파
+U+2A8EE	𪣮	탁
+U+2A8EF	𪣯	
+U+2A8F0	𪣰	라
+U+2A8F1	𪣱	랍
+U+2A8F2	𪣲	묘
+U+2A8F3	𪣳	연
+U+2A8F4	𪣴	
+U+2A8F5	𪣵	배
+U+2A8F6	𪣶	
+U+2A8F7	𪣷	
+U+2A8F8	𪣸	
+U+2A8F9	𪣹	정
+U+2A8FA	𪣺	흡
+U+2A8FB	𪣻	루
+U+2A8FC	𪣼	
+U+2A8FD	𪣽	
+U+2A8FE	𪣾	
+U+2A8FF	𪣿	성
+U+2A900	𪤀	망
+U+2A901	𪤁	
+U+2A902	𪤂	온
+U+2A903	𪤃	안
+U+2A904	𪤄	파
+U+2A905	𪤅	당
+U+2A906	𪤆	선
+U+2A907	𪤇	창
+U+2A908	𪤈	파;반
+U+2A909	𪤉	승
+U+2A90A	𪤊	
+U+2A90B	𪤋	
+U+2A90C	𪤌	상
+U+2A90D	𪤍	
+U+2A90E	𪤎	련
+U+2A90F	𪤏	기
+U+2A910	𪤐	
+U+2A911	𪤑	국
+U+2A912	𪤒	함
+U+2A913	𪤓	
+U+2A914	𪤔	
+U+2A915	𪤕	산
+U+2A916	𪤖	장
+U+2A917	𪤗	료
+U+2A918	𪤘	모
+U+2A919	𪤙	연
+U+2A91A	𪤚	린
+U+2A91B	𪤛	취
+U+2A91C	𪤜	방
+U+2A91D	𪤝	장
+U+2A91E	𪤞	지
+U+2A91F	𪤟	남
+U+2A920	𪤠	뢰
+U+2A921	𪤡	례
+U+2A922	𪤢	조
+U+2A923	𪤣	
+U+2A924	𪤤	록
+U+2A925	𪤥	의
+U+2A926	𪤦	
+U+2A927	𪤧	여
+U+2A928	𪤨	비
+U+2A929	𪤩	
+U+2A92A	𪤪	제
+U+2A92B	𪤫	종
+U+2A92C	𪤬	뢰
+U+2A92D	𪤭	치
+U+2A92E	𪤮	료
+U+2A92F	𪤯	준;돈
+U+2A930	𪤰	림
+U+2A931	𪤱	간
+U+2A932	𪤲	성
+U+2A933	𪤳	수
+U+2A934	𪤴	일
+U+2A935	𪤵	
+U+2A936	𪤶	정
+U+2A937	𪤷	면
+U+2A938	𪤸	외
+U+2A939	𪤹	미
+U+2A93A	𪤺	
+U+2A93B	𪤻	다
+U+2A93C	𪤼	향
+U+2A93D	𪤽	릉
+U+2A93E	𪤾	조
+U+2A93F	𪤿	
+U+2A940	𪥀	름
+U+2A941	𪥁	댁
+U+2A942	𪥂	절;도
+U+2A943	𪥃	정
+U+2A944	𪥄	
+U+2A945	𪥅	계
+U+2A946	𪥆	
+U+2A947	𪥇	병
+U+2A948	𪥈	평
+U+2A949	𪥉	
+U+2A94A	𪥊	매
+U+2A94B	𪥋	말
+U+2A94C	𪥌	고
+U+2A94D	𪥍	엄
+U+2A94E	𪥎	혈
+U+2A94F	𪥏	
+U+2A950	𪥐	봉
+U+2A951	𪥑	내
+U+2A952	𪥒	취
+U+2A953	𪥓	
+U+2A954	𪥔	
+U+2A955	𪥕	
+U+2A956	𪥖	
+U+2A957	𪥗	잔;전
+U+2A958	𪥘	기
+U+2A959	𪥙	천
+U+2A95A	𪥚	과
+U+2A95B	𪥛	엄
+U+2A95C	𪥜	
+U+2A95D	𪥝	훈
+U+2A95E	𪥞	
+U+2A95F	𪥟	중
+U+2A960	𪥠	응;잉
+U+2A961	𪥡	대
+U+2A962	𪥢	섭
+U+2A963	𪥣	
+U+2A964	𪥤	
+U+2A965	𪥥	개
+U+2A966	𪥦	호
+U+2A967	𪥧	
+U+2A968	𪥨	일
+U+2A969	𪥩	기
+U+2A96A	𪥪	기
+U+2A96B	𪥫	쌍
+U+2A96C	𪥬	석
+U+2A96D	𪥭	정
+U+2A96E	𪥮	
+U+2A96F	𪥯	노
+U+2A970	𪥰	녕
+U+2A971	𪥱	자
+U+2A972	𪥲	요
+U+2A973	𪥳	조
+U+2A974	𪥴	
+U+2A975	𪥵	
+U+2A976	𪥶	방
+U+2A977	𪥷	백
+U+2A978	𪥸	왜
+U+2A979	𪥹	항
+U+2A97A	𪥺	험
+U+2A97B	𪥻	폄
+U+2A97C	𪥼	처
+U+2A97D	𪥽	창
+U+2A97E	𪥾	투
+U+2A97F	𪥿	독
+U+2A980	𪦀	방
+U+2A981	𪦁	빙
+U+2A982	𪦂	오
+U+2A983	𪦃	점
+U+2A984	𪦄	조
+U+2A985	𪦅	뇌
+U+2A986	𪦆	투
+U+2A987	𪦇	봉
+U+2A988	𪦈	언
+U+2A989	𪦉	미
+U+2A98A	𪦊	
+U+2A98B	𪦋	단
+U+2A98C	𪦌	자
+U+2A98D	𪦍	
+U+2A98E	𪦎	언
+U+2A98F	𪦏	
+U+2A990	𪦐	
+U+2A991	𪦑	간
+U+2A992	𪦒	건
+U+2A993	𪦓	
+U+2A994	𪦔	창
+U+2A995	𪦕	다
+U+2A996	𪦖	친
+U+2A997	𪦗	알
+U+2A998	𪦘	
+U+2A999	𪦙	아
+U+2A99A	𪦚	패
+U+2A99B	𪦛	수
+U+2A99C	𪦜	저
+U+2A99D	𪦝	
+U+2A99E	𪦞	습
+U+2A99F	𪦟	어
+U+2A9A0	𪦠	
+U+2A9A1	𪦡	
+U+2A9A2	𪦢	음
+U+2A9A3	𪦣	
+U+2A9A4	𪦤	
+U+2A9A5	𪦥	련
+U+2A9A6	𪦦	
+U+2A9A7	𪦧	기
+U+2A9A8	𪦨	속
+U+2A9A9	𪦩	휘
+U+2A9AA	𪦪	
+U+2A9AB	𪦫	각
+U+2A9AC	𪦬	현
+U+2A9AD	𪦭	오
+U+2A9AE	𪦮	뢰
+U+2A9AF	𪦯	영
+U+2A9B0	𪦰	
+U+2A9B1	𪦱	
+U+2A9B2	𪦲	매
+U+2A9B3	𪦳	양
+U+2A9B4	𪦴	
+U+2A9B5	𪦵	진
+U+2A9B6	𪦶	지
+U+2A9B7	𪦷	
+U+2A9B8	𪦸	
+U+2A9B9	𪦹	문
+U+2A9BA	𪦺	맥
+U+2A9BB	𪦻	함
+U+2A9BC	𪦼	열
+U+2A9BD	𪦽	
+U+2A9BE	𪦾	
+U+2A9BF	𪦿	식
+U+2A9C0	𪧀	영
+U+2A9C1	𪧁	치
+U+2A9C2	𪧂	간
+U+2A9C3	𪧃	
+U+2A9C4	𪧄	외
+U+2A9C5	𪧅	
+U+2A9C6	𪧆	척
+U+2A9C7	𪧇	상
+U+2A9C8	𪧈	전
+U+2A9C9	𪧉	
+U+2A9CA	𪧊	구
+U+2A9CB	𪧋	
+U+2A9CC	𪧌	포
+U+2A9CD	𪧍	룡
+U+2A9CE	𪧎	족
+U+2A9CF	𪧏	
+U+2A9D0	𪧐	숙
+U+2A9D1	𪧑	한
+U+2A9D2	𪧒	객
+U+2A9D3	𪧓	박
+U+2A9D4	𪧔	한
+U+2A9D5	𪧕	보
+U+2A9D6	𪧖	
+U+2A9D7	𪧗	
+U+2A9D8	𪧘	구
+U+2A9D9	𪧙	
+U+2A9DA	𪧚	수
+U+2A9DB	𪧛	료
+U+2A9DC	𪧜	오
+U+2A9DD	𪧝	밀
+U+2A9DE	𪧞	
+U+2A9DF	𪧟	녕
+U+2A9E0	𪧠	녕
+U+2A9E1	𪧡	직
+U+2A9E2	𪧢	
+U+2A9E3	𪧣	
+U+2A9E4	𪧤	규
+U+2A9E5	𪧥	복
+U+2A9E6	𪧦	채
+U+2A9E7	𪧧	실
+U+2A9E8	𪧨	
+U+2A9E9	𪧩	용
+U+2A9EA	𪧪	
+U+2A9EB	𪧫	분
+U+2A9EC	𪧬	도;보
+U+2A9ED	𪧭	친
+U+2A9EE	𪧮	무
+U+2A9EF	𪧯	
+U+2A9F0	𪧰	부
+U+2A9F1	𪧱	결
+U+2A9F2	𪧲	
+U+2A9F3	𪧳	리;래
+U+2A9F4	𪧴	
+U+2A9F5	𪧵	
+U+2A9F6	𪧶	란;관
+U+2A9F7	𪧷	장
+U+2A9F8	𪧸	사
+U+2A9F9	𪧹	흡
+U+2A9FA	𪧺	제
+U+2A9FB	𪧻	반
+U+2A9FC	𪧼	
+U+2A9FD	𪧽	수
+U+2A9FE	𪧾	최
+U+2A9FF	𪧿	눌
+U+2AA00	𪨀	출
+U+2AA01	𪨁	
+U+2AA02	𪨂	
+U+2AA03	𪨃	졸
+U+2AA04	𪨄	
+U+2AA05	𪨅	치
+U+2AA06	𪨆	외
+U+2AA07	𪨇	퇴
+U+2AA08	𪨈	강
+U+2AA09	𪨉	산
+U+2AA0A	𪨊	송
+U+2AA0B	𪨋	정
+U+2AA0C	𪨌	미
+U+2AA0D	𪨍	역
+U+2AA0E	𪨎	가
+U+2AA0F	𪨏	보
+U+2AA10	𪨐	태
+U+2AA11	𪨑	
+U+2AA12	𪨒	
+U+2AA13	𪨓	
+U+2AA14	𪨔	
+U+2AA15	𪨕	
+U+2AA16	𪨖	미
+U+2AA17	𪨗	교
+U+2AA18	𪨘	정
+U+2AA19	𪨙	
+U+2AA1A	𪨚	주
+U+2AA1B	𪨛	지
+U+2AA1C	𪨜	술
+U+2AA1D	𪨝	향
+U+2AA1E	𪨞	잡
+U+2AA1F	𪨟	보
+U+2AA20	𪨠	반
+U+2AA21	𪨡	
+U+2AA22	𪨢	하
+U+2AA23	𪨣	흘
+U+2AA24	𪨤	산
+U+2AA25	𪨥	
+U+2AA26	𪨦	흘
+U+2AA27	𪨧	륜
+U+2AA28	𪨨	
+U+2AA29	𪨩	알
+U+2AA2A	𪨪	책
+U+2AA2B	𪨫	묘
+U+2AA2C	𪨬	현
+U+2AA2D	𪨭	홍
+U+2AA2E	𪨮	
+U+2AA2F	𪨯	성
+U+2AA30	𪨰	곡
+U+2AA31	𪨱	조
+U+2AA32	𪨲	부
+U+2AA33	𪨳	행
+U+2AA34	𪨴	
+U+2AA35	𪨵	기
+U+2AA36	𪨶	요
+U+2AA37	𪨷	암
+U+2AA38	𪨸	취
+U+2AA39	𪨹	타
+U+2AA3A	𪨺	랭
+U+2AA3B	𪨻	개
+U+2AA3C	𪨼	내
+U+2AA3D	𪨽	
+U+2AA3E	𪨾	수
+U+2AA3F	𪨿	엄
+U+2AA40	𪩀	호
+U+2AA41	𪩁	저
+U+2AA42	𪩂	남
+U+2AA43	𪩃	시
+U+2AA44	𪩄	
+U+2AA45	𪩅	황
+U+2AA46	𪩆	
+U+2AA47	𪩇	루
+U+2AA48	𪩈	세
+U+2AA49	𪩉	부
+U+2AA4A	𪩊	
+U+2AA4B	𪩋	분
+U+2AA4C	𪩌	
+U+2AA4D	𪩍	
+U+2AA4E	𪩎	영
+U+2AA4F	𪩏	록;각;교
+U+2AA50	𪩐	
+U+2AA51	𪩑	
+U+2AA52	𪩒	
+U+2AA53	𪩓	화
+U+2AA54	𪩔	
+U+2AA55	𪩕	
+U+2AA56	𪩖	잔
+U+2AA57	𪩗	근
+U+2AA58	𪩘	헌
+U+2AA59	𪩙	
+U+2AA5A	𪩚	회
+U+2AA5B	𪩛	얼
+U+2AA5C	𪩜	외
+U+2AA5D	𪩝	총
+U+2AA5E	𪩞	전
+U+2AA5F	𪩟	
+U+2AA60	𪩠	려
+U+2AA61	𪩡	옹
+U+2AA62	𪩢	천
+U+2AA63	𪩣	
+U+2AA64	𪩤	렬
+U+2AA65	𪩥	린
+U+2AA66	𪩦	림
+U+2AA67	𪩧	정
+U+2AA68	𪩨	몽
+U+2AA69	𪩩	수
+U+2AA6A	𪩪	렴
+U+2AA6B	𪩫	권
+U+2AA6C	𪩬	파
+U+2AA6D	𪩭	래
+U+2AA6E	𪩮	릉
+U+2AA6F	𪩯	산
+U+2AA70	𪩰	비
+U+2AA71	𪩱	단;저
+U+2AA72	𪩲	자;지;제;본
+U+2AA73	𪩳	오
+U+2AA74	𪩴	문
+U+2AA75	𪩵	행
+U+2AA76	𪩶	막
+U+2AA77	𪩷	천
+U+2AA78	𪩸	분
+U+2AA79	𪩹	배
+U+2AA7A	𪩺	결
+U+2AA7B	𪩻	숙;수
+U+2AA7C	𪩼	
+U+2AA7D	𪩽	
+U+2AA7E	𪩾	보
+U+2AA7F	𪩿	담
+U+2AA80	𪪀	차
+U+2AA81	𪪁	
+U+2AA82	𪪂	헌
+U+2AA83	𪪃	병
+U+2AA84	𪪄	인
+U+2AA85	𪪅	엄
+U+2AA86	𪪆	념
+U+2AA87	𪪇	방
+U+2AA88	𪪈	비
+U+2AA89	𪪉	민
+U+2AA8A	𪪊	약
+U+2AA8B	𪪋	재;치
+U+2AA8C	𪪌	석
+U+2AA8D	𪪍	문
+U+2AA8E	𪪎	정
+U+2AA8F	𪪏	려
+U+2AA90	𪪐	건
+U+2AA91	𪪑	교
+U+2AA92	𪪒	당
+U+2AA93	𪪓	비
+U+2AA94	𪪔	파
+U+2AA95	𪪕	거
+U+2AA96	𪪖	
+U+2AA97	𪪗	랑
+U+2AA98	𪪘	읍
+U+2AA99	𪪙	
+U+2AA9A	𪪚	청
+U+2AA9B	𪪛	사
+U+2AA9C	𪪜	하
+U+2AA9D	𪪝	옹
+U+2AA9E	𪪞	장
+U+2AA9F	𪪟	
+U+2AAA0	𪪠	부
+U+2AAA1	𪪡	
+U+2AAA2	𪪢	간
+U+2AAA3	𪪣	
+U+2AAA4	𪪤	단
+U+2AAA5	𪪥	
+U+2AAA6	𪪦	안
+U+2AAA7	𪪧	의
+U+2AAA8	𪪨	름
+U+2AAA9	𪪩	롱
+U+2AAAA	𪪪	치
+U+2AAAB	𪪫	
+U+2AAAC	𪪬	우
+U+2AAAD	𪪭	평
+U+2AAAE	𪪮	전
+U+2AAAF	𪪯	경
+U+2AAB0	𪪰	내
+U+2AAB1	𪪱	황
+U+2AAB2	𪪲	정
+U+2AAB3	𪪳	옹
+U+2AAB4	𪪴	역;택
+U+2AAB5	𪪵	구
+U+2AAB6	𪪶	체
+U+2AAB7	𪪷	이
+U+2AAB8	𪪸	진
+U+2AAB9	𪪹	훈
+U+2AABA	𪪺	홍;강
+U+2AABB	𪪻	병
+U+2AABC	𪪼	필
+U+2AABD	𪪽	
+U+2AABE	𪪾	
+U+2AABF	𪪿	
+U+2AAC0	𪫀	
+U+2AAC1	𪫁	칭
+U+2AAC2	𪫂	인
+U+2AAC3	𪫃	제
+U+2AAC4	𪫄	쌍
+U+2AAC5	𪫅	어
+U+2AAC6	𪫆	침
+U+2AAC7	𪫇	
+U+2AAC8	𪫈	
+U+2AAC9	𪫉	영
+U+2AACA	𪫊	방
+U+2AACB	𪫋	문
+U+2AACC	𪫌	룡
+U+2AACD	𪫍	지
+U+2AACE	𪫎	구
+U+2AACF	𪫏	
+U+2AAD0	𪫐	일
+U+2AAD1	𪫑	외
+U+2AAD2	𪫒	
+U+2AAD3	𪫓	률
+U+2AAD4	𪫔	
+U+2AAD5	𪫕	휘
+U+2AAD6	𪫖	전
+U+2AAD7	𪫗	미
+U+2AAD8	𪫘	연
+U+2AAD9	𪫙	역
+U+2AADA	𪫚	법
+U+2AADB	𪫛	
+U+2AADC	𪫜	휘
+U+2AADD	𪫝	
+U+2AADE	𪫞	토
+U+2AADF	𪫟	출
+U+2AAE0	𪫠	비
+U+2AAE1	𪫡	력
+U+2AAE2	𪫢	의
+U+2AAE3	𪫣	
+U+2AAE4	𪫤	강
+U+2AAE5	𪫥	숙
+U+2AAE6	𪫦	괴
+U+2AAE7	𪫧	
+U+2AAE8	𪫨	
+U+2AAE9	𪫩	은
+U+2AAEA	𪫪	경
+U+2AAEB	𪫫	인
+U+2AAEC	𪫬	성
+U+2AAED	𪫭	고
+U+2AAEE	𪫮	맥
+U+2AAEF	𪫯	협
+U+2AAF0	𪫰	려
+U+2AAF1	𪫱	분
+U+2AAF2	𪫲	안
+U+2AAF3	𪫳	녕
+U+2AAF4	𪫴	비
+U+2AAF5	𪫵	롱
+U+2AAF6	𪫶	남
+U+2AAF7	𪫷	주
+U+2AAF8	𪫸	각
+U+2AAF9	𪫹	욕
+U+2AAFA	𪫺	섬
+U+2AAFB	𪫻	완
+U+2AAFC	𪫼	대
+U+2AAFD	𪫽	
+U+2AAFE	𪫾	
+U+2AAFF	𪫿	지
+U+2AB00	𪬀	빙
+U+2AB01	𪬁	
+U+2AB02	𪬂	사
+U+2AB03	𪬃	의
+U+2AB04	𪬄	자
+U+2AB05	𪬅	
+U+2AB06	𪬆	
+U+2AB07	𪬇	혜
+U+2AB08	𪬈	정
+U+2AB09	𪬉	
+U+2AB0A	𪬊	물
+U+2AB0B	𪬋	
+U+2AB0C	𪬌	람
+U+2AB0D	𪬍	
+U+2AB0E	𪬎	파
+U+2AB0F	𪬏	향
+U+2AB10	𪬐	추
+U+2AB11	𪬑	병
+U+2AB12	𪬒	민
+U+2AB13	𪬓	건
+U+2AB14	𪬔	수
+U+2AB15	𪬕	
+U+2AB16	𪬖	민
+U+2AB17	𪬗	잉
+U+2AB18	𪬘	일
+U+2AB19	𪬙	연
+U+2AB1A	𪬚	빈
+U+2AB1B	𪬛	
+U+2AB1C	𪬜	
+U+2AB1D	𪬝	
+U+2AB1E	𪬞	
+U+2AB1F	𪬟	빈
+U+2AB20	𪬠	거
+U+2AB21	𪬡	현
+U+2AB22	𪬢	
+U+2AB23	𪬣	
+U+2AB24	𪬤	식
+U+2AB25	𪬥	덕
+U+2AB26	𪬦	
+U+2AB27	𪬧	기
+U+2AB28	𪬨	량
+U+2AB29	𪬩	훈
+U+2AB2A	𪬪	유
+U+2AB2B	𪬫	의
+U+2AB2C	𪬬	포
+U+2AB2D	𪬭	쟁
+U+2AB2E	𪬮	성
+U+2AB2F	𪬯	라
+U+2AB30	𪬰	취
+U+2AB31	𪬱	원
+U+2AB32	𪬲	한
+U+2AB33	𪬳	연
+U+2AB34	𪬴	신
+U+2AB35	𪬵	
+U+2AB36	𪬶	회
+U+2AB37	𪬷	참
+U+2AB38	𪬸	렴
+U+2AB39	𪬹	탄
+U+2AB3A	𪬺	
+U+2AB3B	𪬻	월
+U+2AB3C	𪬼	현
+U+2AB3D	𪬽	북
+U+2AB3E	𪬾	린
+U+2AB3F	𪬿	
+U+2AB40	𪭀	
+U+2AB41	𪭁	니
+U+2AB42	𪭂	
+U+2AB43	𪭃	로
+U+2AB44	𪭄	액
+U+2AB45	𪭅	공
+U+2AB46	𪭆	
+U+2AB47	𪭇	선
+U+2AB48	𪭈	구
+U+2AB49	𪭉	
+U+2AB4A	𪭊	륵
+U+2AB4B	𪭋	재
+U+2AB4C	𪭌	과
+U+2AB4D	𪭍	공
+U+2AB4E	𪭎	귀
+U+2AB4F	𪭏	위
+U+2AB50	𪭐	
+U+2AB51	𪭑	
+U+2AB52	𪭒	
+U+2AB53	𪭓	맹
+U+2AB54	𪭔	알
+U+2AB55	𪭕	
+U+2AB56	𪭖	
+U+2AB57	𪭗	아
+U+2AB58	𪭘	호
+U+2AB59	𪭙	경
+U+2AB5A	𪭚	거
+U+2AB5B	𪭛	조
+U+2AB5C	𪭜	찰
+U+2AB5D	𪭝	위
+U+2AB5E	𪭞	
+U+2AB5F	𪭟	오
+U+2AB60	𪭠	
+U+2AB61	𪭡	
+U+2AB62	𪭢	창
+U+2AB63	𪭣	서
+U+2AB64	𪭤	정
+U+2AB65	𪭥	좌
+U+2AB66	𪭦	괴
+U+2AB67	𪭧	
+U+2AB68	𪭨	시
+U+2AB69	𪭩	대
+U+2AB6A	𪭪	책
+U+2AB6B	𪭫	방
+U+2AB6C	𪭬	표
+U+2AB6D	𪭭	저
+U+2AB6E	𪭮	중
+U+2AB6F	𪭯	해
+U+2AB70	𪭰	양
+U+2AB71	𪭱	결
+U+2AB72	𪭲	택
+U+2AB73	𪭳	흔
+U+2AB74	𪭴	주
+U+2AB75	𪭵	량
+U+2AB76	𪭶	천
+U+2AB77	𪭷	포
+U+2AB78	𪭸	규
+U+2AB79	𪭹	포
+U+2AB7A	𪭺	랄
+U+2AB7B	𪭻	선
+U+2AB7C	𪭼	리
+U+2AB7D	𪭽	
+U+2AB7E	𪭾	한
+U+2AB7F	𪭿	장
+U+2AB80	𪮀	완
+U+2AB81	𪮁	랄
+U+2AB82	𪮂	평
+U+2AB83	𪮃	참
+U+2AB84	𪮄	서
+U+2AB85	𪮅	조
+U+2AB86	𪮆	날
+U+2AB87	𪮇	무
+U+2AB88	𪮈	사
+U+2AB89	𪮉	택
+U+2AB8A	𪮊	솔
+U+2AB8B	𪮋	숙
+U+2AB8C	𪮌	철
+U+2AB8D	𪮍	모
+U+2AB8E	𪮎	
+U+2AB8F	𪮏	사
+U+2AB90	𪮐	품
+U+2AB91	𪮑	간
+U+2AB92	𪮒	
+U+2AB93	𪮓	분
+U+2AB94	𪮔	락
+U+2AB95	𪮕	비
+U+2AB96	𪮖	절
+U+2AB97	𪮗	
+U+2AB98	𪮘	봉
+U+2AB99	𪮙	홍
+U+2AB9A	𪮚	강
+U+2AB9B	𪮛	시
+U+2AB9C	𪮜	추
+U+2AB9D	𪮝	해
+U+2AB9E	𪮞	질
+U+2AB9F	𪮟	다
+U+2ABA0	𪮠	련
+U+2ABA1	𪮡	
+U+2ABA2	𪮢	
+U+2ABA3	𪮣	기
+U+2ABA4	𪮤	붕
+U+2ABA5	𪮥	반
+U+2ABA6	𪮦	체
+U+2ABA7	𪮧	용
+U+2ABA8	𪮨	탐
+U+2ABA9	𪮩	조
+U+2ABAA	𪮪	루
+U+2ABAB	𪮫	살
+U+2ABAC	𪮬	희
+U+2ABAD	𪮭	진
+U+2ABAE	𪮮	극
+U+2ABAF	𪮯	읍
+U+2ABB0	𪮰	민
+U+2ABB1	𪮱	상
+U+2ABB2	𪮲	양
+U+2ABB3	𪮳	만
+U+2ABB4	𪮴	루
+U+2ABB5	𪮵	찬
+U+2ABB6	𪮶	랄
+U+2ABB7	𪮷	사;하
+U+2ABB8	𪮸	
+U+2ABB9	𪮹	방
+U+2ABBA	𪮺	진
+U+2ABBB	𪮻	질
+U+2ABBC	𪮼	훈
+U+2ABBD	𪮽	질
+U+2ABBE	𪮾	균
+U+2ABBF	𪮿	경
+U+2ABC0	𪯀	가
+U+2ABC1	𪯁	
+U+2ABC2	𪯂	응
+U+2ABC3	𪯃	양
+U+2ABC4	𪯄	권
+U+2ABC5	𪯅	사
+U+2ABC6	𪯆	
+U+2ABC7	𪯇	지
+U+2ABC8	𪯈	부
+U+2ABC9	𪯉	생
+U+2ABCA	𪯊	수
+U+2ABCB	𪯋	섬
+U+2ABCC	𪯌	추
+U+2ABCD	𪯍	경
+U+2ABCE	𪯎	달
+U+2ABCF	𪯏	홀
+U+2ABD0	𪯐	체;적
+U+2ABD1	𪯑	소
+U+2ABD2	𪯒	
+U+2ABD3	𪯓	조
+U+2ABD4	𪯔	적
+U+2ABD5	𪯕	작
+U+2ABD6	𪯖	륙
+U+2ABD7	𪯗	산
+U+2ABD8	𪯘	잠
+U+2ABD9	𪯙	적
+U+2ABDA	𪯚	
+U+2ABDB	𪯛	소
+U+2ABDC	𪯜	름
+U+2ABDD	𪯝	쇄
+U+2ABDE	𪯞	쇄
+U+2ABDF	𪯟	
+U+2ABE0	𪯠	천
+U+2ABE1	𪯡	문
+U+2ABE2	𪯢	관
+U+2ABE3	𪯣	사
+U+2ABE4	𪯤	합
+U+2ABE5	𪯥	슬
+U+2ABE6	𪯦	
+U+2ABE7	𪯧	
+U+2ABE8	𪯨	산
+U+2ABE9	𪯩	쌍
+U+2ABEA	𪯪	고
+U+2ABEB	𪯫	
+U+2ABEC	𪯬	호
+U+2ABED	𪯭	
+U+2ABEE	𪯮	비
+U+2ABEF	𪯯	사
+U+2ABF0	𪯰	척
+U+2ABF1	𪯱	흔
+U+2ABF2	𪯲	기
+U+2ABF3	𪯳	
+U+2ABF4	𪯴	점
+U+2ABF5	𪯵	광
+U+2ABF6	𪯶	
+U+2ABF7	𪯷	양
+U+2ABF8	𪯸	
+U+2ABF9	𪯹	
+U+2ABFA	𪯺	
+U+2ABFB	𪯻	정
+U+2ABFC	𪯼	제
+U+2ABFD	𪯽	
+U+2ABFE	𪯾	방
+U+2ABFF	𪯿	만
+U+2AC00	𪰀	
+U+2AC01	𪰁	
+U+2AC02	𪰂	비
+U+2AC03	𪰃	반
+U+2AC04	𪰄	강
+U+2AC05	𪰅	훈
+U+2AC06	𪰆	공
+U+2AC07	𪰇	골;홀
+U+2AC08	𪰈	
+U+2AC09	𪰉	정
+U+2AC0A	𪰊	정
+U+2AC0B	𪰋	민
+U+2AC0C	𪰌	모
+U+2AC0D	𪰍	두
+U+2AC0E	𪰎	민
+U+2AC0F	𪰏	하
+U+2AC10	𪰐	본
+U+2AC11	𪰑	옥
+U+2AC12	𪰒	소
+U+2AC13	𪰓	수
+U+2AC14	𪰔	영
+U+2AC15	𪰕	순
+U+2AC16	𪰖	측;순
+U+2AC17	𪰗	필
+U+2AC18	𪰘	가
+U+2AC19	𪰙	길
+U+2AC1A	𪰚	기
+U+2AC1B	𪰛	사
+U+2AC1C	𪰜	식
+U+2AC1D	𪰝	
+U+2AC1E	𪰞	필
+U+2AC1F	𪰟	년
+U+2AC20	𪰠	강
+U+2AC21	𪰡	전
+U+2AC22	𪰢	주
+U+2AC23	𪰣	욱
+U+2AC24	𪰤	여
+U+2AC25	𪰥	아
+U+2AC26	𪰦	좌
+U+2AC27	𪰧	횡
+U+2AC28	𪰨	로
+U+2AC29	𪰩	
+U+2AC2A	𪰪	래
+U+2AC2B	𪰫	분
+U+2AC2C	𪰬	리
+U+2AC2D	𪰭	쟁
+U+2AC2E	𪰮	제
+U+2AC2F	𪰯	시
+U+2AC30	𪰰	시
+U+2AC31	𪰱	정
+U+2AC32	𪰲	
+U+2AC33	𪰳	
+U+2AC34	𪰴	가
+U+2AC35	𪰵	용
+U+2AC36	𪰶	비
+U+2AC37	𪰷	건
+U+2AC38	𪰸	소
+U+2AC39	𪰹	매
+U+2AC3A	𪰺	
+U+2AC3B	𪰻	창
+U+2AC3C	𪰼	당
+U+2AC3D	𪰽	
+U+2AC3E	𪰾	지
+U+2AC3F	𪰿	제
+U+2AC40	𪱀	급
+U+2AC41	𪱁	이
+U+2AC42	𪱂	저
+U+2AC43	𪱃	
+U+2AC44	𪱄	인
+U+2AC45	𪱅	저
+U+2AC46	𪱆	낭
+U+2AC47	𪱇	혜
+U+2AC48	𪱈	정
+U+2AC49	𪱉	래
+U+2AC4A	𪱊	성
+U+2AC4B	𪱋	선
+U+2AC4C	𪱌	로
+U+2AC4D	𪱍	억
+U+2AC4E	𪱎	
+U+2AC4F	𪱏	
+U+2AC50	𪱐	생
+U+2AC51	𪱑	
+U+2AC52	𪱒	낭
+U+2AC53	𪱓	
+U+2AC54	𪱔	
+U+2AC55	𪱕	최
+U+2AC56	𪱖	격
+U+2AC57	𪱗	금
+U+2AC58	𪱘	요
+U+2AC59	𪱙	월
+U+2AC5A	𪱚	상
+U+2AC5B	𪱛	윤
+U+2AC5C	𪱜	태
+U+2AC5D	𪱝	승
+U+2AC5E	𪱞	니;이
+U+2AC5F	𪱟	반
+U+2AC60	𪱠	범
+U+2AC61	𪱡	여
+U+2AC62	𪱢	조
+U+2AC63	𪱣	
+U+2AC64	𪱤	
+U+2AC65	𪱥	분
+U+2AC66	𪱦	황
+U+2AC67	𪱧	량
+U+2AC68	𪱨	롱
+U+2AC69	𪱩	리
+U+2AC6A	𪱪	등
+U+2AC6B	𪱫	사
+U+2AC6C	𪱬	음
+U+2AC6D	𪱭	밀
+U+2AC6E	𪱮	홍
+U+2AC6F	𪱯	룡
+U+2AC70	𪱰	
+U+2AC71	𪱱	하
+U+2AC72	𪱲	상
+U+2AC73	𪱳	화
+U+2AC74	𪱴	녀
+U+2AC75	𪱵	천
+U+2AC76	𪱶	영
+U+2AC77	𪱷	패
+U+2AC78	𪱸	어
+U+2AC79	𪱹	
+U+2AC7A	𪱺	좌
+U+2AC7B	𪱻	본
+U+2AC7C	𪱼	금
+U+2AC7D	𪱽	
+U+2AC7E	𪱾	니
+U+2AC7F	𪱿	유
+U+2AC80	𪲀	
+U+2AC81	𪲁	
+U+2AC82	𪲂	상
+U+2AC83	𪲃	잔
+U+2AC84	𪲄	회
+U+2AC85	𪲅	평
+U+2AC86	𪲆	
+U+2AC87	𪲇	곡
+U+2AC88	𪲈	구
+U+2AC89	𪲉	구
+U+2AC8A	𪲊	범
+U+2AC8B	𪲋	항
+U+2AC8C	𪲌	
+U+2AC8D	𪲍	표
+U+2AC8E	𪲎	제
+U+2AC8F	𪲏	후
+U+2AC90	𪲐	야
+U+2AC91	𪲑	
+U+2AC92	𪲒	화
+U+2AC93	𪲓	두
+U+2AC94	𪲔	려
+U+2AC95	𪲕	조
+U+2AC96	𪲖	보
+U+2AC97	𪲗	곤
+U+2AC98	𪲘	아
+U+2AC99	𪲙	승
+U+2AC9A	𪲚	
+U+2AC9B	𪲛	계
+U+2AC9C	𪲜	랭
+U+2AC9D	𪲝	상
+U+2AC9E	𪲞	
+U+2AC9F	𪲟	행
+U+2ACA0	𪲠	량
+U+2ACA1	𪲡	초
+U+2ACA2	𪲢	
+U+2ACA3	𪲣	모
+U+2ACA4	𪲤	
+U+2ACA5	𪲥	조
+U+2ACA6	𪲦	
+U+2ACA7	𪲧	종
+U+2ACA8	𪲨	송
+U+2ACA9	𪲩	훤
+U+2ACAA	𪲪	품
+U+2ACAB	𪲫	삭
+U+2ACAC	𪲬	
+U+2ACAD	𪲭	완
+U+2ACAE	𪲮	폐
+U+2ACAF	𪲯	용
+U+2ACB0	𪲰	
+U+2ACB1	𪲱	
+U+2ACB2	𪲲	치
+U+2ACB3	𪲳	
+U+2ACB4	𪲴	
+U+2ACB5	𪲵	돌
+U+2ACB6	𪲶	
+U+2ACB7	𪲷	
+U+2ACB8	𪲸	극
+U+2ACB9	𪲹	
+U+2ACBA	𪲺	
+U+2ACBB	𪲻	배
+U+2ACBC	𪲼	
+U+2ACBD	𪲽	멸
+U+2ACBE	𪲾	가
+U+2ACBF	𪲿	랄
+U+2ACC0	𪳀	음
+U+2ACC1	𪳁	도;탁
+U+2ACC2	𪳂	수
+U+2ACC3	𪳃	
+U+2ACC4	𪳄	량
+U+2ACC5	𪳅	
+U+2ACC6	𪳆	용
+U+2ACC7	𪳇	가
+U+2ACC8	𪳈	
+U+2ACC9	𪳉	악
+U+2ACCA	𪳊	유
+U+2ACCB	𪳋	임
+U+2ACCC	𪳌	두
+U+2ACCD	𪳍	섭
+U+2ACCE	𪳎	
+U+2ACCF	𪳏	릉
+U+2ACD0	𪳐	구
+U+2ACD1	𪳑	과
+U+2ACD2	𪳒	
+U+2ACD3	𪳓	
+U+2ACD4	𪳔	륜
+U+2ACD5	𪳕	추
+U+2ACD6	𪳖	
+U+2ACD7	𪳗	애
+U+2ACD8	𪳘	총
+U+2ACD9	𪳙	준
+U+2ACDA	𪳚	속
+U+2ACDB	𪳛	서
+U+2ACDC	𪳜	극
+U+2ACDD	𪳝	유
+U+2ACDE	𪳞	교
+U+2ACDF	𪳟	면
+U+2ACE0	𪳠	해
+U+2ACE1	𪳡	곤
+U+2ACE2	𪳢	
+U+2ACE3	𪳣	
+U+2ACE4	𪳤	조
+U+2ACE5	𪳥	귀
+U+2ACE6	𪳦	얼
+U+2ACE7	𪳧	배
+U+2ACE8	𪳨	한
+U+2ACE9	𪳩	친
+U+2ACEA	𪳪	
+U+2ACEB	𪳫	유
+U+2ACEC	𪳬	
+U+2ACED	𪳭	련
+U+2ACEE	𪳮	일
+U+2ACEF	𪳯	당
+U+2ACF0	𪳰	과
+U+2ACF1	𪳱	
+U+2ACF2	𪳲	지
+U+2ACF3	𪳳	사
+U+2ACF4	𪳴	파
+U+2ACF5	𪳵	
+U+2ACF6	𪳶	한
+U+2ACF7	𪳷	양
+U+2ACF8	𪳸	추
+U+2ACF9	𪳹	
+U+2ACFA	𪳺	하
+U+2ACFB	𪳻	
+U+2ACFC	𪳼	저
+U+2ACFD	𪳽	고
+U+2ACFE	𪳾	재
+U+2ACFF	𪳿	도
+U+2AD00	𪴀	례
+U+2AD01	𪴁	조
+U+2AD02	𪴂	만
+U+2AD03	𪴃	오
+U+2AD04	𪴄	도
+U+2AD05	𪴅	
+U+2AD06	𪴆	자
+U+2AD07	𪴇	
+U+2AD08	𪴈	무
+U+2AD09	𪴉	숭
+U+2AD0A	𪴊	조
+U+2AD0B	𪴋	구
+U+2AD0C	𪴌	관
+U+2AD0D	𪴍	고
+U+2AD0E	𪴎	
+U+2AD0F	𪴏	만
+U+2AD10	𪴐	
+U+2AD11	𪴑	
+U+2AD12	𪴒	
+U+2AD13	𪴓	
+U+2AD14	𪴔	료
+U+2AD15	𪴕	층
+U+2AD16	𪴖	림
+U+2AD17	𪴗	기
+U+2AD18	𪴘	
+U+2AD19	𪴙	찬
+U+2AD1A	𪴚	
+U+2AD1B	𪴛	례
+U+2AD1C	𪴜	상
+U+2AD1D	𪴝	로
+U+2AD1E	𪴞	명
+U+2AD1F	𪴟	무
+U+2AD20	𪴠	
+U+2AD21	𪴡	경
+U+2AD22	𪴢	촉
+U+2AD23	𪴣	용
+U+2AD24	𪴤	각
+U+2AD25	𪴥	
+U+2AD26	𪴦	작
+U+2AD27	𪴧	란
+U+2AD28	𪴨	업
+U+2AD29	𪴩	방
+U+2AD2A	𪴪	안
+U+2AD2B	𪴫	히
+U+2AD2C	𪴬	관
+U+2AD2D	𪴭	박
+U+2AD2E	𪴮	흠
+U+2AD2F	𪴯	읍
+U+2AD30	𪴰	
+U+2AD31	𪴱	흡
+U+2AD32	𪴲	
+U+2AD33	𪴳	획
+U+2AD34	𪴴	요
+U+2AD35	𪴵	물
+U+2AD36	𪴶	원
+U+2AD37	𪴷	용
+U+2AD38	𪴸	왕
+U+2AD39	𪴹	법
+U+2AD3A	𪴺	
+U+2AD3B	𪴻	
+U+2AD3C	𪴼	장
+U+2AD3D	𪴽	왜
+U+2AD3E	𪴾	지
+U+2AD3F	𪴿	여
+U+2AD40	𪵀	
+U+2AD41	𪵁	
+U+2AD42	𪵂	
+U+2AD43	𪵃	
+U+2AD44	𪵄	
+U+2AD45	𪵅	론
+U+2AD46	𪵆	진
+U+2AD47	𪵇	뢰
+U+2AD48	𪵈	과
+U+2AD49	𪵉	날
+U+2AD4A	𪵊	의
+U+2AD4B	𪵋	교
+U+2AD4C	𪵌	치
+U+2AD4D	𪵍	령
+U+2AD4E	𪵎	감
+U+2AD4F	𪵏	언
+U+2AD50	𪵐	부
+U+2AD51	𪵑	효
+U+2AD52	𪵒	
+U+2AD53	𪵓	옥
+U+2AD54	𪵔	경
+U+2AD55	𪵕	도
+U+2AD56	𪵖	
+U+2AD57	𪵗	
+U+2AD58	𪵘	화
+U+2AD59	𪵙	포
+U+2AD5A	𪵚	
+U+2AD5B	𪵛	뢰
+U+2AD5C	𪵜	송
+U+2AD5D	𪵝	비
+U+2AD5E	𪵞	례
+U+2AD5F	𪵟	미
+U+2AD60	𪵠	납
+U+2AD61	𪵡	
+U+2AD62	𪵢	빈
+U+2AD63	𪵣	희
+U+2AD64	𪵤	가
+U+2AD65	𪵥	
+U+2AD66	𪵦	
+U+2AD67	𪵧	오
+U+2AD68	𪵨	수
+U+2AD69	𪵩	판
+U+2AD6A	𪵪	수
+U+2AD6B	𪵫	
+U+2AD6C	𪵬	범
+U+2AD6D	𪵭	고
+U+2AD6E	𪵮	근
+U+2AD6F	𪵯	조
+U+2AD70	𪵰	인
+U+2AD71	𪵱	례
+U+2AD72	𪵲	
+U+2AD73	𪵳	
+U+2AD74	𪵴	패
+U+2AD75	𪵵	맥
+U+2AD76	𪵶	륵
+U+2AD77	𪵷	천
+U+2AD78	𪵸	
+U+2AD79	𪵹	강;공
+U+2AD7A	𪵺	섭
+U+2AD7B	𪵻	세
+U+2AD7C	𪵼	
+U+2AD7D	𪵽	우
+U+2AD7E	𪵾	행
+U+2AD7F	𪵿	정
+U+2AD80	𪶀	남
+U+2AD81	𪶁	왕
+U+2AD82	𪶂	
+U+2AD83	𪶃	
+U+2AD84	𪶄	시
+U+2AD85	𪶅	도
+U+2AD86	𪶆	적
+U+2AD87	𪶇	
+U+2AD88	𪶈	계
+U+2AD89	𪶉	
+U+2AD8A	𪶊	대
+U+2AD8B	𪶋	묘
+U+2AD8C	𪶌	도
+U+2AD8D	𪶍	
+U+2AD8E	𪶎	초
+U+2AD8F	𪶏	법
+U+2AD90	𪶐	안
+U+2AD91	𪶑	필
+U+2AD92	𪶒	라;리
+U+2AD93	𪶓	환
+U+2AD94	𪶔	회
+U+2AD95	𪶕	연
+U+2AD96	𪶖	
+U+2AD97	𪶗	행
+U+2AD98	𪶘	야
+U+2AD99	𪶙	와
+U+2AD9A	𪶚	심
+U+2AD9B	𪶛	상
+U+2AD9C	𪶜	평
+U+2AD9D	𪶝	
+U+2AD9E	𪶞	첨
+U+2AD9F	𪶟	몰
+U+2ADA0	𪶠	준
+U+2ADA1	𪶡	흡
+U+2ADA2	𪶢	
+U+2ADA3	𪶣	
+U+2ADA4	𪶤	미
+U+2ADA5	𪶥	
+U+2ADA6	𪶦	곤
+U+2ADA7	𪶧	연
+U+2ADA8	𪶨	노
+U+2ADA9	𪶩	
+U+2ADAA	𪶪	배
+U+2ADAB	𪶫	회
+U+2ADAC	𪶬	비
+U+2ADAD	𪶭	렬
+U+2ADAE	𪶮	오
+U+2ADAF	𪶯	
+U+2ADB0	𪶰	칠
+U+2ADB1	𪶱	
+U+2ADB2	𪶲	인
+U+2ADB3	𪶳	참
+U+2ADB4	𪶴	도
+U+2ADB5	𪶵	
+U+2ADB6	𪶶	좌
+U+2ADB7	𪶷	류
+U+2ADB8	𪶸	문
+U+2ADB9	𪶹	정
+U+2ADBA	𪶺	변
+U+2ADBB	𪶻	자
+U+2ADBC	𪶼	결
+U+2ADBD	𪶽	상
+U+2ADBE	𪶾	루
+U+2ADBF	𪶿	관
+U+2ADC0	𪷀	석
+U+2ADC1	𪷁	징
+U+2ADC2	𪷂	모
+U+2ADC3	𪷃	람
+U+2ADC4	𪷄	탈
+U+2ADC5	𪷅	수
+U+2ADC6	𪷆	명
+U+2ADC7	𪷇	전
+U+2ADC8	𪷈	관
+U+2ADC9	𪷉	세
+U+2ADCA	𪷊	
+U+2ADCB	𪷋	오
+U+2ADCC	𪷌	
+U+2ADCD	𪷍	정
+U+2ADCE	𪷎	
+U+2ADCF	𪷏	
+U+2ADD0	𪷐	아
+U+2ADD1	𪷑	량
+U+2ADD2	𪷒	도
+U+2ADD3	𪷓	
+U+2ADD4	𪷔	치
+U+2ADD5	𪷕	비
+U+2ADD6	𪷖	연
+U+2ADD7	𪷗	비
+U+2ADD8	𪷘	
+U+2ADD9	𪷙	부
+U+2ADDA	𪷚	탄
+U+2ADDB	𪷛	
+U+2ADDC	𪷜	사
+U+2ADDD	𪷝	록;각;교
+U+2ADDE	𪷞	람
+U+2ADDF	𪷟	몽
+U+2ADE0	𪷠	완
+U+2ADE1	𪷡	
+U+2ADE2	𪷢	
+U+2ADE3	𪷣	벽
+U+2ADE4	𪷤	름
+U+2ADE5	𪷥	릉
+U+2ADE6	𪷦	
+U+2ADE7	𪷧	군
+U+2ADE8	𪷨	희
+U+2ADE9	𪷩	림
+U+2ADEA	𪷪	빈
+U+2ADEB	𪷫	포
+U+2ADEC	𪷬	긴
+U+2ADED	𪷭	윤
+U+2ADEE	𪷮	
+U+2ADEF	𪷯	종
+U+2ADF0	𪷰	소
+U+2ADF1	𪷱	새
+U+2ADF2	𪷲	
+U+2ADF3	𪷳	패
+U+2ADF4	𪷴	열
+U+2ADF5	𪷵	음
+U+2ADF6	𪷶	령
+U+2ADF7	𪷷	료
+U+2ADF8	𪷸	경
+U+2ADF9	𪷹	룡
+U+2ADFA	𪷺	혜
+U+2ADFB	𪷻	전
+U+2ADFC	𪷼	의
+U+2ADFD	𪷽	찬
+U+2ADFE	𪷾	
+U+2ADFF	𪷿	영
+U+2AE00	𪸀	하
+U+2AE01	𪸁	파
+U+2AE02	𪸂	
+U+2AE03	𪸃	
+U+2AE04	𪸄	람
+U+2AE05	𪸅	유
+U+2AE06	𪸆	
+U+2AE07	𪸇	표
+U+2AE08	𪸈	주
+U+2AE09	𪸉	
+U+2AE0A	𪸊	요
+U+2AE0B	𪸋	건
+U+2AE0C	𪸌	
+U+2AE0D	𪸍	연
+U+2AE0E	𪸎	범
+U+2AE0F	𪸏	희
+U+2AE10	𪸐	
+U+2AE11	𪸑	
+U+2AE12	𪸒	호
+U+2AE13	𪸓	기
+U+2AE14	𪸔	지
+U+2AE15	𪸕	희
+U+2AE16	𪸖	형
+U+2AE17	𪸗	강;윤
+U+2AE18	𪸘	준
+U+2AE19	𪸙	말
+U+2AE1A	𪸚	
+U+2AE1B	𪸛	옥
+U+2AE1C	𪸜	
+U+2AE1D	𪸝	령
+U+2AE1E	𪸞	선
+U+2AE1F	𪸟	외
+U+2AE20	𪸠	영
+U+2AE21	𪸡	횡
+U+2AE22	𪸢	
+U+2AE23	𪸣	조
+U+2AE24	𪸤	성
+U+2AE25	𪸥	이
+U+2AE26	𪸦	자
+U+2AE27	𪸧	
+U+2AE28	𪸨	
+U+2AE29	𪸩	휘
+U+2AE2A	𪸪	우
+U+2AE2B	𪸫	갱
+U+2AE2C	𪸬	개
+U+2AE2D	𪸭	패
+U+2AE2E	𪸮	호
+U+2AE2F	𪸯	타
+U+2AE30	𪸰	회
+U+2AE31	𪸱	장
+U+2AE32	𪸲	조
+U+2AE33	𪸳	조
+U+2AE34	𪸴	기
+U+2AE35	𪸵	무;빈
+U+2AE36	𪸶	
+U+2AE37	𪸷	
+U+2AE38	𪸸	전
+U+2AE39	𪸹	묘
+U+2AE3A	𪸺	
+U+2AE3B	𪸻	소
+U+2AE3C	𪸼	주
+U+2AE3D	𪸽	질
+U+2AE3E	𪸾	
+U+2AE3F	𪸿	팽
+U+2AE40	𪹀	
+U+2AE41	𪹁	맹
+U+2AE42	𪹂	성
+U+2AE43	𪹃	
+U+2AE44	𪹄	병
+U+2AE45	𪹅	내
+U+2AE46	𪹆	
+U+2AE47	𪹇	탄
+U+2AE48	𪹈	시;하
+U+2AE49	𪹉	살
+U+2AE4A	𪹊	유
+U+2AE4B	𪹋	우
+U+2AE4C	𪹌	상
+U+2AE4D	𪹍	후
+U+2AE4E	𪹎	해
+U+2AE4F	𪹏	미
+U+2AE50	𪹐	
+U+2AE51	𪹑	염
+U+2AE52	𪹒	
+U+2AE53	𪹓	
+U+2AE54	𪹔	
+U+2AE55	𪹕	후
+U+2AE56	𪹖	미
+U+2AE57	𪹗	염
+U+2AE58	𪹘	서
+U+2AE59	𪹙	
+U+2AE5A	𪹚	방
+U+2AE5B	𪹛	소
+U+2AE5C	𪹜	고
+U+2AE5D	𪹝	광
+U+2AE5E	𪹞	
+U+2AE5F	𪹟	쇄
+U+2AE60	𪹠	연
+U+2AE61	𪹡	빈
+U+2AE62	𪹢	운
+U+2AE63	𪹣	
+U+2AE64	𪹤	살
+U+2AE65	𪹥	찬
+U+2AE66	𪹦	분
+U+2AE67	𪹧	적
+U+2AE68	𪹨	
+U+2AE69	𪹩	곤
+U+2AE6A	𪹪	오
+U+2AE6B	𪹫	
+U+2AE6C	𪹬	은
+U+2AE6D	𪹭	접
+U+2AE6E	𪹮	취
+U+2AE6F	𪹯	
+U+2AE70	𪹰	연
+U+2AE71	𪹱	숙
+U+2AE72	𪹲	
+U+2AE73	𪹳	촉
+U+2AE74	𪹴	수
+U+2AE75	𪹵	
+U+2AE76	𪹶	
+U+2AE77	𪹷	낭
+U+2AE78	𪹸	발
+U+2AE79	𪹹	답
+U+2AE7A	𪹺	
+U+2AE7B	𪹻	심
+U+2AE7C	𪹼	폭
+U+2AE7D	𪹽	기
+U+2AE7E	𪹾	찰
+U+2AE7F	𪹿	
+U+2AE80	𪺀	취
+U+2AE81	𪺁	두
+U+2AE82	𪺂	섭
+U+2AE83	𪺃	당
+U+2AE84	𪺄	작
+U+2AE85	𪺅	
+U+2AE86	𪺆	작
+U+2AE87	𪺇	리
+U+2AE88	𪺈	
+U+2AE89	𪺉	
+U+2AE8A	𪺊	
+U+2AE8B	𪺋	추
+U+2AE8C	𪺌	당
+U+2AE8D	𪺍	수
+U+2AE8E	𪺎	형
+U+2AE8F	𪺏	치;환
+U+2AE90	𪺐	
+U+2AE91	𪺑	
+U+2AE92	𪺒	
+U+2AE93	𪺓	쟁
+U+2AE94	𪺔	학
+U+2AE95	𪺕	계
+U+2AE96	𪺖	녕
+U+2AE97	𪺗	완
+U+2AE98	𪺘	쟁
+U+2AE99	𪺙	
+U+2AE9A	𪺚	어
+U+2AE9B	𪺛	부
+U+2AE9C	𪺜	야
+U+2AE9D	𪺝	질
+U+2AE9E	𪺞	홀;흘
+U+2AE9F	𪺟	장
+U+2AEA0	𪺠	창
+U+2AEA1	𪺡	
+U+2AEA2	𪺢	
+U+2AEA3	𪺣	도;수
+U+2AEA4	𪺤	
+U+2AEA5	𪺥	창
+U+2AEA6	𪺦	
+U+2AEA7	𪺧	결
+U+2AEA8	𪺨	졸
+U+2AEA9	𪺩	탁
+U+2AEAA	𪺪	롱
+U+2AEAB	𪺫	내
+U+2AEAC	𪺬	욱
+U+2AEAD	𪺭	교
+U+2AEAE	𪺮	견
+U+2AEAF	𪺯	
+U+2AEB0	𪺰	배
+U+2AEB1	𪺱	구
+U+2AEB2	𪺲	
+U+2AEB3	𪺳	리
+U+2AEB4	𪺴	앵
+U+2AEB5	𪺵	
+U+2AEB6	𪺶	벽
+U+2AEB7	𪺷	창
+U+2AEB8	𪺸	추
+U+2AEB9	𪺹	노
+U+2AEBA	𪺺	
+U+2AEBB	𪺻	노
+U+2AEBC	𪺼	진
+U+2AEBD	𪺽	은
+U+2AEBE	𪺾	
+U+2AEBF	𪺿	문
+U+2AEC0	𪻀	
+U+2AEC1	𪻁	병
+U+2AEC2	𪻂	둔
+U+2AEC3	𪻃	률
+U+2AEC4	𪻄	미
+U+2AEC5	𪻅	원
+U+2AEC6	𪻆	미
+U+2AEC7	𪻇	
+U+2AEC8	𪻈	
+U+2AEC9	𪻉	난
+U+2AECA	𪻊	간
+U+2AECB	𪻋	
+U+2AECC	𪻌	
+U+2AECD	𪻍	우
+U+2AECE	𪻎	균
+U+2AECF	𪻏	급
+U+2AED0	𪻐	종
+U+2AED1	𪻑	갱
+U+2AED2	𪻒	심
+U+2AED3	𪻓	화
+U+2AED4	𪻔	침
+U+2AED5	𪻕	고
+U+2AED6	𪻖	령
+U+2AED7	𪻗	
+U+2AED8	𪻘	긍
+U+2AED9	𪻙	
+U+2AEDA	𪻚	애
+U+2AEDB	𪻛	동
+U+2AEDC	𪻜	
+U+2AEDD	𪻝	우
+U+2AEDE	𪻞	개
+U+2AEDF	𪻟	군
+U+2AEE0	𪻠	롱
+U+2AEE1	𪻡	두
+U+2AEE2	𪻢	
+U+2AEE3	𪻣	형
+U+2AEE4	𪻤	병
+U+2AEE5	𪻥	
+U+2AEE6	𪻦	내
+U+2AEE7	𪻧	목
+U+2AEE8	𪻨	독
+U+2AEE9	𪻩	
+U+2AEEA	𪻪	명
+U+2AEEB	𪻫	망
+U+2AEEC	𪻬	악
+U+2AEED	𪻭	선
+U+2AEEE	𪻮	반
+U+2AEEF	𪻯	방
+U+2AEF0	𪻰	
+U+2AEF1	𪻱	함
+U+2AEF2	𪻲	곤
+U+2AEF3	𪻳	남
+U+2AEF4	𪻴	금
+U+2AEF5	𪻵	전
+U+2AEF6	𪻶	
+U+2AEF7	𪻷	약
+U+2AEF8	𪻸	가
+U+2AEF9	𪻹	성
+U+2AEFA	𪻺	괴
+U+2AEFB	𪻻	
+U+2AEFC	𪻼	전
+U+2AEFD	𪻽	용
+U+2AEFE	𪻾	언
+U+2AEFF	𪻿	도;탁
+U+2AF00	𪼀	제
+U+2AF01	𪼁	
+U+2AF02	𪼂	
+U+2AF03	𪼃	
+U+2AF04	𪼄	전
+U+2AF05	𪼅	탁
+U+2AF06	𪼆	
+U+2AF07	𪼇	봉
+U+2AF08	𪼈	전
+U+2AF09	𪼉	진
+U+2AF0A	𪼊	도
+U+2AF0B	𪼋	필
+U+2AF0C	𪼌	경
+U+2AF0D	𪼍	선
+U+2AF0E	𪼎	강
+U+2AF0F	𪼏	상
+U+2AF10	𪼐	상
+U+2AF11	𪼑	견
+U+2AF12	𪼒	완
+U+2AF13	𪼓	
+U+2AF14	𪼔	유
+U+2AF15	𪼕	족
+U+2AF16	𪼖	
+U+2AF17	𪼗	민
+U+2AF18	𪼘	훤
+U+2AF19	𪼙	윤
+U+2AF1A	𪼚	
+U+2AF1B	𪼛	
+U+2AF1C	𪼜	
+U+2AF1D	𪼝	
+U+2AF1E	𪼞	
+U+2AF1F	𪼟	지
+U+2AF20	𪼠	
+U+2AF21	𪼡	강
+U+2AF22	𪼢	역
+U+2AF23	𪼣	오
+U+2AF24	𪼤	첨
+U+2AF25	𪼥	렴
+U+2AF26	𪼦	의
+U+2AF27	𪼧	창
+U+2AF28	𪼨	환
+U+2AF29	𪼩	
+U+2AF2A	𪼪	
+U+2AF2B	𪼫	정
+U+2AF2C	𪼬	림
+U+2AF2D	𪼭	
+U+2AF2E	𪼮	환
+U+2AF2F	𪼯	
+U+2AF30	𪼰	
+U+2AF31	𪼱	
+U+2AF32	𪼲	
+U+2AF33	𪼳	과
+U+2AF34	𪼴	장
+U+2AF35	𪼵	호
+U+2AF36	𪼶	
+U+2AF37	𪼷	자
+U+2AF38	𪼸	화
+U+2AF39	𪼹	본
+U+2AF3A	𪼺	변
+U+2AF3B	𪼻	
+U+2AF3C	𪼼	
+U+2AF3D	𪼽	추
+U+2AF3E	𪼾	
+U+2AF3F	𪼿	
+U+2AF40	𪽀	
+U+2AF41	𪽁	
+U+2AF42	𪽂	
+U+2AF43	𪽃	
+U+2AF44	𪽄	창
+U+2AF45	𪽅	지
+U+2AF46	𪽆	봉
+U+2AF47	𪽇	
+U+2AF48	𪽈	창
+U+2AF49	𪽉	외
+U+2AF4A	𪽊	
+U+2AF4B	𪽋	류
+U+2AF4C	𪽌	문
+U+2AF4D	𪽍	가
+U+2AF4E	𪽎	
+U+2AF4F	𪽏	랭
+U+2AF50	𪽐	계
+U+2AF51	𪽑	우
+U+2AF52	𪽒	
+U+2AF53	𪽓	
+U+2AF54	𪽔	
+U+2AF55	𪽕	
+U+2AF56	𪽖	나
+U+2AF57	𪽗	화
+U+2AF58	𪽘	륙
+U+2AF59	𪽙	봉
+U+2AF5A	𪽚	기
+U+2AF5B	𪽛	전
+U+2AF5C	𪽜	
+U+2AF5D	𪽝	파
+U+2AF5E	𪽞	룡
+U+2AF5F	𪽟	
+U+2AF60	𪽠	
+U+2AF61	𪽡	파
+U+2AF62	𪽢	초
+U+2AF63	𪽣	롱
+U+2AF64	𪽤	첩
+U+2AF65	𪽥	
+U+2AF66	𪽦	
+U+2AF67	𪽧	촉
+U+2AF68	𪽨	알
+U+2AF69	𪽩	릉
+U+2AF6A	𪽪	장
+U+2AF6B	𪽫	조
+U+2AF6C	𪽬	미
+U+2AF6D	𪽭	전;천
+U+2AF6E	𪽮	로
+U+2AF6F	𪽯	랄
+U+2AF70	𪽰	서
+U+2AF71	𪽱	궁
+U+2AF72	𪽲	병
+U+2AF73	𪽳	요
+U+2AF74	𪽴	사
+U+2AF75	𪽵	과
+U+2AF76	𪽶	려
+U+2AF77	𪽷	예
+U+2AF78	𪽸	월
+U+2AF79	𪽹	우
+U+2AF7A	𪽺	
+U+2AF7B	𪽻	목
+U+2AF7C	𪽼	백;문
+U+2AF7D	𪽽	호
+U+2AF7E	𪽾	백
+U+2AF7F	𪽿	만
+U+2AF80	𪾀	
+U+2AF81	𪾁	법
+U+2AF82	𪾂	황
+U+2AF83	𪾃	위
+U+2AF84	𪾄	은
+U+2AF85	𪾅	희
+U+2AF86	𪾆	피
+U+2AF87	𪾇	피
+U+2AF88	𪾈	요
+U+2AF89	𪾉	야
+U+2AF8A	𪾊	반
+U+2AF8B	𪾋	감
+U+2AF8C	𪾌	하
+U+2AF8D	𪾍	형
+U+2AF8E	𪾎	완
+U+2AF8F	𪾏	유
+U+2AF90	𪾐	
+U+2AF91	𪾑	
+U+2AF92	𪾒	
+U+2AF93	𪾓	성
+U+2AF94	𪾔	수
+U+2AF95	𪾕	완;등
+U+2AF96	𪾖	조
+U+2AF97	𪾗	
+U+2AF98	𪾘	병;비
+U+2AF99	𪾙	농
+U+2AF9A	𪾚	
+U+2AF9B	𪾛	미
+U+2AF9C	𪾜	려
+U+2AF9D	𪾝	
+U+2AF9E	𪾞	
+U+2AF9F	𪾟	여
+U+2AFA0	𪾠	민
+U+2AFA1	𪾡	탐;우
+U+2AFA2	𪾢	현
+U+2AFA3	𪾣	저
+U+2AFA4	𪾤	무
+U+2AFA5	𪾥	호
+U+2AFA6	𪾦	로
+U+2AFA7	𪾧	령
+U+2AFA8	𪾨	
+U+2AFA9	𪾩	우
+U+2AFAA	𪾪	
+U+2AFAB	𪾫	욱
+U+2AFAC	𪾬	
+U+2AFAD	𪾭	림
+U+2AFAE	𪾮	음
+U+2AFAF	𪾯	
+U+2AFB0	𪾰	방
+U+2AFB1	𪾱	생;성
+U+2AFB2	𪾲	암
+U+2AFB3	𪾳	위
+U+2AFB4	𪾴	
+U+2AFB5	𪾵	
+U+2AFB6	𪾶	수
+U+2AFB7	𪾷	주;혜;휴
+U+2AFB8	𪾸	빈
+U+2AFB9	𪾹	
+U+2AFBA	𪾺	말
+U+2AFBB	𪾻	
+U+2AFBC	𪾼	에;예
+U+2AFBD	𪾽	민
+U+2AFBE	𪾾	답
+U+2AFBF	𪾿	몽
+U+2AFC0	𪿀	우
+U+2AFC1	𪿁	룡
+U+2AFC2	𪿂	징
+U+2AFC3	𪿃	심
+U+2AFC4	𪿄	룡
+U+2AFC5	𪿅	
+U+2AFC6	𪿆	긍
+U+2AFC7	𪿇	
+U+2AFC8	𪿈	
+U+2AFC9	𪿉	소
+U+2AFCA	𪿊	아
+U+2AFCB	𪿋	기
+U+2AFCC	𪿌	유
+U+2AFCD	𪿍	
+U+2AFCE	𪿎	사
+U+2AFCF	𪿏	
+U+2AFD0	𪿐	유
+U+2AFD1	𪿑	강
+U+2AFD2	𪿒	애
+U+2AFD3	𪿓	지
+U+2AFD4	𪿔	무
+U+2AFD5	𪿕	
+U+2AFD6	𪿖	
+U+2AFD7	𪿗	니
+U+2AFD8	𪿘	태
+U+2AFD9	𪿙	탄
+U+2AFDA	𪿚	
+U+2AFDB	𪿛	독
+U+2AFDC	𪿜	폄
+U+2AFDD	𪿝	여
+U+2AFDE	𪿞	주
+U+2AFDF	𪿟	진
+U+2AFE0	𪿠	암
+U+2AFE1	𪿡	
+U+2AFE2	𪿢	피
+U+2AFE3	𪿣	
+U+2AFE4	𪿤	포
+U+2AFE5	𪿥	매
+U+2AFE6	𪿦	
+U+2AFE7	𪿧	천
+U+2AFE8	𪿨	비;광
+U+2AFE9	𪿩	거
+U+2AFEA	𪿪	배
+U+2AFEB	𪿫	포
+U+2AFEC	𪿬	엄
+U+2AFED	𪿭	가
+U+2AFEE	𪿮	용
+U+2AFEF	𪿯	추
+U+2AFF0	𪿰	전
+U+2AFF1	𪿱	반
+U+2AFF2	𪿲	요
+U+2AFF3	𪿳	마
+U+2AFF4	𪿴	산
+U+2AFF5	𪿵	년
+U+2AFF6	𪿶	결
+U+2AFF7	𪿷	미
+U+2AFF8	𪿸	뢰
+U+2AFF9	𪿹	옹
+U+2AFFA	𪿺	신
+U+2AFFB	𪿻	람
+U+2AFFC	𪿼	
+U+2AFFD	𪿽	륜
+U+2AFFE	𪿾	번
+U+2AFFF	𪿿	강
+U+2B000	𫀀	공
+U+2B001	𫀁	
+U+2B002	𫀂	
+U+2B003	𫀃	납
+U+2B004	𫀄	성
+U+2B005	𫀅	점
+U+2B006	𫀆	포
+U+2B007	𫀇	말
+U+2B008	𫀈	동
+U+2B009	𫀉	휼
+U+2B00A	𫀊	의
+U+2B00B	𫀋	협
+U+2B00C	𫀌	시
+U+2B00D	𫀍	예;이
+U+2B00E	𫀎	언
+U+2B00F	𫀏	
+U+2B010	𫀐	무
+U+2B011	𫀑	
+U+2B012	𫀒	석
+U+2B013	𫀓	민
+U+2B014	𫀔	
+U+2B015	𫀕	영
+U+2B016	𫀖	
+U+2B017	𫀗	아
+U+2B018	𫀘	례
+U+2B019	𫀙	
+U+2B01A	𫀚	온
+U+2B01B	𫀛	함
+U+2B01C	𫀜	
+U+2B01D	𫀝	
+U+2B01E	𫀞	창
+U+2B01F	𫀟	사
+U+2B020	𫀠	상
+U+2B021	𫀡	
+U+2B022	𫀢	외
+U+2B023	𫀣	기
+U+2B024	𫀤	
+U+2B025	𫀥	석
+U+2B026	𫀦	술
+U+2B027	𫀧	
+U+2B028	𫀨	견
+U+2B029	𫀩	오
+U+2B02A	𫀪	전
+U+2B02B	𫀫	월
+U+2B02C	𫀬	추
+U+2B02D	𫀭	리
+U+2B02E	𫀮	당
+U+2B02F	𫀯	계;욱
+U+2B030	𫀰	도
+U+2B031	𫀱	후
+U+2B032	𫀲	피
+U+2B033	𫀳	
+U+2B034	𫀴	녈
+U+2B035	𫀵	
+U+2B036	𫀶	
+U+2B037	𫀷	인
+U+2B038	𫀸	국
+U+2B039	𫀹	
+U+2B03A	𫀺	리
+U+2B03B	𫀻	경
+U+2B03C	𫀼	사
+U+2B03D	𫀽	우
+U+2B03E	𫀾	목
+U+2B03F	𫀿	
+U+2B040	𫁀	
+U+2B041	𫁁	치
+U+2B042	𫁂	파
+U+2B043	𫁃	도
+U+2B044	𫁄	소
+U+2B045	𫁅	정
+U+2B046	𫁆	
+U+2B047	𫁇	목
+U+2B048	𫁈	
+U+2B049	𫁉	이
+U+2B04A	𫁊	
+U+2B04B	𫁋	궁
+U+2B04C	𫁌	
+U+2B04D	𫁍	주
+U+2B04E	𫁎	공
+U+2B04F	𫁏	송
+U+2B050	𫁐	묘
+U+2B051	𫁑	
+U+2B052	𫁒	곽
+U+2B053	𫁓	
+U+2B054	𫁔	공
+U+2B055	𫁕	면
+U+2B056	𫁖	귀
+U+2B057	𫁗	굴
+U+2B058	𫁘	조
+U+2B059	𫁙	촬
+U+2B05A	𫁚	곡
+U+2B05B	𫁛	륜
+U+2B05C	𫁜	뢰
+U+2B05D	𫁝	절
+U+2B05E	𫁞	
+U+2B05F	𫁟	전
+U+2B060	𫁠	책
+U+2B061	𫁡	립
+U+2B062	𫁢	저
+U+2B063	𫁣	각
+U+2B064	𫁤	반
+U+2B065	𫁥	점
+U+2B066	𫁦	거
+U+2B067	𫁧	대
+U+2B068	𫁨	위
+U+2B069	𫁩	존
+U+2B06A	𫁪	립
+U+2B06B	𫁫	항
+U+2B06C	𫁬	상
+U+2B06D	𫁭	로
+U+2B06E	𫁮	이
+U+2B06F	𫁯	감
+U+2B070	𫁰	책
+U+2B071	𫁱	위;어
+U+2B072	𫁲	무
+U+2B073	𫁳	피
+U+2B074	𫁴	
+U+2B075	𫁵	두
+U+2B076	𫁶	척
+U+2B077	𫁷	쌍
+U+2B078	𫁸	무
+U+2B079	𫁹	고
+U+2B07A	𫁺	업
+U+2B07B	𫁻	자;건
+U+2B07C	𫁼	범
+U+2B07D	𫁽	
+U+2B07E	𫁾	전
+U+2B07F	𫁿	
+U+2B080	𫂀	패
+U+2B081	𫂁	막
+U+2B082	𫂂	매
+U+2B083	𫂃	민
+U+2B084	𫂄	범
+U+2B085	𫂅	
+U+2B086	𫂆	궤
+U+2B087	𫂇	적
+U+2B088	𫂈	폐
+U+2B089	𫂉	절
+U+2B08A	𫂊	
+U+2B08B	𫂋	
+U+2B08C	𫂌	필
+U+2B08D	𫂍	점
+U+2B08E	𫂎	순
+U+2B08F	𫂏	완
+U+2B090	𫂐	태
+U+2B091	𫂑	
+U+2B092	𫂒	
+U+2B093	𫂓	시
+U+2B094	𫂔	멸
+U+2B095	𫂕	배
+U+2B096	𫂖	애;얘
+U+2B097	𫂗	미
+U+2B098	𫂘	
+U+2B099	𫂙	척
+U+2B09A	𫂚	
+U+2B09B	𫂛	름
+U+2B09C	𫂜	괴
+U+2B09D	𫂝	몽
+U+2B09E	𫂞	강
+U+2B09F	𫂟	마
+U+2B0A0	𫂠	혜
+U+2B0A1	𫂡	극
+U+2B0A2	𫂢	환
+U+2B0A3	𫂣	
+U+2B0A4	𫂤	상
+U+2B0A5	𫂥	가
+U+2B0A6	𫂦	종
+U+2B0A7	𫂧	극
+U+2B0A8	𫂨	폭
+U+2B0A9	𫂩	
+U+2B0AA	𫂪	설
+U+2B0AB	𫂫	존
+U+2B0AC	𫂬	형
+U+2B0AD	𫂭	등
+U+2B0AE	𫂮	기
+U+2B0AF	𫂯	영
+U+2B0B0	𫂰	참
+U+2B0B1	𫂱	연
+U+2B0B2	𫂲	
+U+2B0B3	𫂳	미
+U+2B0B4	𫂴	
+U+2B0B5	𫂵	름
+U+2B0B6	𫂶	봉
+U+2B0B7	𫂷	
+U+2B0B8	𫂸	잡
+U+2B0B9	𫂹	
+U+2B0BA	𫂺	번
+U+2B0BB	𫂻	도
+U+2B0BC	𫂼	
+U+2B0BD	𫂽	
+U+2B0BE	𫂾	인;곤
+U+2B0BF	𫂿	살
+U+2B0C0	𫃀	안
+U+2B0C1	𫃁	구
+U+2B0C2	𫃂	
+U+2B0C3	𫃃	구
+U+2B0C4	𫃄	종
+U+2B0C5	𫃅	름
+U+2B0C6	𫃆	시
+U+2B0C7	𫃇	집
+U+2B0C8	𫃈	
+U+2B0C9	𫃉	
+U+2B0CA	𫃊	로
+U+2B0CB	𫃋	
+U+2B0CC	𫃌	전
+U+2B0CD	𫃍	용
+U+2B0CE	𫃎	마
+U+2B0CF	𫃏	경
+U+2B0D0	𫃐	민
+U+2B0D1	𫃑	료
+U+2B0D2	𫃒	
+U+2B0D3	𫃓	
+U+2B0D4	𫃔	
+U+2B0D5	𫃕	자
+U+2B0D6	𫃖	
+U+2B0D7	𫃗	추
+U+2B0D8	𫃘	
+U+2B0D9	𫃙	적
+U+2B0DA	𫃚	복
+U+2B0DB	𫃛	윤
+U+2B0DC	𫃜	구
+U+2B0DD	𫃝	억
+U+2B0DE	𫃞	중
+U+2B0DF	𫃟	말
+U+2B0E0	𫃠	포;절
+U+2B0E1	𫃡	립
+U+2B0E2	𫃢	휴
+U+2B0E3	𫃣	자
+U+2B0E4	𫃤	여
+U+2B0E5	𫃥	제
+U+2B0E6	𫃦	조
+U+2B0E7	𫃧	승
+U+2B0E8	𫃨	승
+U+2B0E9	𫃩	
+U+2B0EA	𫃪	조
+U+2B0EB	𫃫	
+U+2B0EC	𫃬	숙
+U+2B0ED	𫃭	수
+U+2B0EE	𫃮	
+U+2B0EF	𫃯	수
+U+2B0F0	𫃰	삼
+U+2B0F1	𫃱	록
+U+2B0F2	𫃲	수
+U+2B0F3	𫃳	
+U+2B0F4	𫃴	환
+U+2B0F5	𫃵	루
+U+2B0F6	𫃶	
+U+2B0F7	𫃷	미
+U+2B0F8	𫃸	뇌
+U+2B0F9	𫃹	
+U+2B0FA	𫃺	연
+U+2B0FB	𫃻	용
+U+2B0FC	𫃼	
+U+2B0FD	𫃽	
+U+2B0FE	𫃾	부
+U+2B0FF	𫃿	채
+U+2B100	𫄀	재
+U+2B101	𫄁	
+U+2B102	𫄂	필
+U+2B103	𫄃	
+U+2B104	𫄄	루
+U+2B105	𫄅	감
+U+2B106	𫄆	촬
+U+2B107	𫄇	재
+U+2B108	𫄈	
+U+2B109	𫄉	로
+U+2B10A	𫄊	
+U+2B10B	𫄋	
+U+2B10C	𫄌	뇌
+U+2B10D	𫄍	봉
+U+2B10E	𫄎	루
+U+2B10F	𫄏	잠
+U+2B110	𫄐	
+U+2B111	𫄑	뇌
+U+2B112	𫄒	산
+U+2B113	𫄓	묵
+U+2B114	𫄔	렴
+U+2B115	𫄕	자
+U+2B116	𫄖	전
+U+2B117	𫄗	
+U+2B118	𫄘	등
+U+2B119	𫄙	규
+U+2B11A	𫄚	호
+U+2B11B	𫄛	금
+U+2B11C	𫄜	모
+U+2B11D	𫄝	조
+U+2B11E	𫄞	배
+U+2B11F	𫄟	시
+U+2B120	𫄠	환
+U+2B121	𫄡	동
+U+2B122	𫄢	복
+U+2B123	𫄣	농
+U+2B124	𫄤	달
+U+2B125	𫄥	리
+U+2B126	𫄦	겁
+U+2B127	𫄧	연
+U+2B128	𫄨	치
+U+2B129	𫄩	번
+U+2B12A	𫄪	상
+U+2B12B	𫄫	려
+U+2B12C	𫄬	설
+U+2B12D	𫄭	부
+U+2B12E	𫄮	정
+U+2B12F	𫄯	속
+U+2B130	𫄰	방
+U+2B131	𫄱	색
+U+2B132	𫄲	막
+U+2B133	𫄳	쇄
+U+2B134	𫄴	률
+U+2B135	𫄵	팽
+U+2B136	𫄶	강
+U+2B137	𫄷	억
+U+2B138	𫄸	훈
+U+2B139	𫄹	수
+U+2B13A	𫄺	정
+U+2B13B	𫄻	대
+U+2B13C	𫄼	모
+U+2B13D	𫄽	
+U+2B13E	𫄾	요
+U+2B13F	𫄿	
+U+2B140	𫅀	월
+U+2B141	𫅁	
+U+2B142	𫅂	고
+U+2B143	𫅃	탁
+U+2B144	𫅄	죄
+U+2B145	𫅅	제
+U+2B146	𫅆	처
+U+2B147	𫅇	
+U+2B148	𫅈	선;산
+U+2B149	𫅉	배
+U+2B14A	𫅊	
+U+2B14B	𫅋	
+U+2B14C	𫅌	
+U+2B14D	𫅍	룡
+U+2B14E	𫅎	함
+U+2B14F	𫅏	차
+U+2B150	𫅐	양
+U+2B151	𫅑	
+U+2B152	𫅒	저
+U+2B153	𫅓	전
+U+2B154	𫅔	양
+U+2B155	𫅕	
+U+2B156	𫅖	
+U+2B157	𫅗	분
+U+2B158	𫅘	가
+U+2B159	𫅙	강
+U+2B15A	𫅚	
+U+2B15B	𫅛	붕
+U+2B15C	𫅜	령
+U+2B15D	𫅝	
+U+2B15E	𫅞	랑
+U+2B15F	𫅟	
+U+2B160	𫅠	엽
+U+2B161	𫅡	선
+U+2B162	𫅢	토
+U+2B163	𫅣	
+U+2B164	𫅤	료
+U+2B165	𫅥	개
+U+2B166	𫅦	상
+U+2B167	𫅧	상
+U+2B168	𫅨	휘
+U+2B169	𫅩	갱
+U+2B16A	𫅪	비
+U+2B16B	𫅫	배
+U+2B16C	𫅬	
+U+2B16D	𫅭	빈
+U+2B16E	𫅮	룡
+U+2B16F	𫅯	속
+U+2B170	𫅰	비
+U+2B171	𫅱	고
+U+2B172	𫅲	롱
+U+2B173	𫅳	놋
+U+2B174	𫅴	
+U+2B175	𫅵	도
+U+2B176	𫅶	
+U+2B177	𫅷	다
+U+2B178	𫅸	
+U+2B179	𫅹	뢰
+U+2B17A	𫅺	이
+U+2B17B	𫅻	곡
+U+2B17C	𫅼	련
+U+2B17D	𫅽	춘
+U+2B17E	𫅾	
+U+2B17F	𫅿	
+U+2B180	𫆀	야
+U+2B181	𫆁	
+U+2B182	𫆂	전
+U+2B183	𫆃	
+U+2B184	𫆄	과
+U+2B185	𫆅	골
+U+2B186	𫆆	사
+U+2B187	𫆇	채
+U+2B188	𫆈	성
+U+2B189	𫆉	
+U+2B18A	𫆊	만
+U+2B18B	𫆋	격
+U+2B18C	𫆌	일
+U+2B18D	𫆍	
+U+2B18E	𫆎	
+U+2B18F	𫆏	적
+U+2B190	𫆐	단
+U+2B191	𫆑	회
+U+2B192	𫆒	총
+U+2B193	𫆓	
+U+2B194	𫆔	이
+U+2B195	𫆕	
+U+2B196	𫆖	두
+U+2B197	𫆗	양
+U+2B198	𫆘	
+U+2B199	𫆙	소
+U+2B19A	𫆚	유
+U+2B19B	𫆛	
+U+2B19C	𫆜	니
+U+2B19D	𫆝	폐
+U+2B19E	𫆞	경
+U+2B19F	𫆟	로
+U+2B1A0	𫆠	판
+U+2B1A1	𫆡	
+U+2B1A2	𫆢	
+U+2B1A3	𫆣	고
+U+2B1A4	𫆤	
+U+2B1A5	𫆥	
+U+2B1A6	𫆦	생;성
+U+2B1A7	𫆧	
+U+2B1A8	𫆨	
+U+2B1A9	𫆩	건
+U+2B1AA	𫆪	
+U+2B1AB	𫆫	애
+U+2B1AC	𫆬	순
+U+2B1AD	𫆭	
+U+2B1AE	𫆮	
+U+2B1AF	𫆯	맥
+U+2B1B0	𫆰	오
+U+2B1B1	𫆱	
+U+2B1B2	𫆲	패
+U+2B1B3	𫆳	만
+U+2B1B4	𫆴	
+U+2B1B5	𫆵	혜
+U+2B1B6	𫆶	
+U+2B1B7	𫆷	제
+U+2B1B8	𫆸	존
+U+2B1B9	𫆹	
+U+2B1BA	𫆺	
+U+2B1BB	𫆻	완
+U+2B1BC	𫆼	방
+U+2B1BD	𫆽	
+U+2B1BE	𫆾	등
+U+2B1BF	𫆿	미
+U+2B1C0	𫇀	력
+U+2B1C1	𫇁	릉
+U+2B1C2	𫇂	악
+U+2B1C3	𫇃	려
+U+2B1C4	𫇄	
+U+2B1C5	𫇅	
+U+2B1C6	𫇆	
+U+2B1C7	𫇇	아
+U+2B1C8	𫇈	
+U+2B1C9	𫇉	제
+U+2B1CA	𫇊	
+U+2B1CB	𫇋	천
+U+2B1CC	𫇌	
+U+2B1CD	𫇍	
+U+2B1CE	𫇎	속
+U+2B1CF	𫇏	진
+U+2B1D0	𫇐	
+U+2B1D1	𫇑	진
+U+2B1D2	𫇒	인;은
+U+2B1D3	𫇓	령
+U+2B1D4	𫇔	괄
+U+2B1D5	𫇕	주
+U+2B1D6	𫇖	린
+U+2B1D7	𫇗	겸
+U+2B1D8	𫇘	라
+U+2B1D9	𫇙	개
+U+2B1DA	𫇚	천
+U+2B1DB	𫇛	로
+U+2B1DC	𫇜	
+U+2B1DD	𫇝	가
+U+2B1DE	𫇞	
+U+2B1DF	𫇟	
+U+2B1E0	𫇠	
+U+2B1E1	𫇡	
+U+2B1E2	𫇢	희
+U+2B1E3	𫇣	희
+U+2B1E4	𫇤	염
+U+2B1E5	𫇥	롱
+U+2B1E6	𫇦	영
+U+2B1E7	𫇧	금
+U+2B1E8	𫇨	
+U+2B1E9	𫇩	하
+U+2B1EA	𫇪	강
+U+2B1EB	𫇫	부
+U+2B1EC	𫇬	도
+U+2B1ED	𫇭	위
+U+2B1EE	𫇮	무
+U+2B1EF	𫇯	호
+U+2B1F0	𫇰	구
+U+2B1F1	𫇱	자
+U+2B1F2	𫇲	
+U+2B1F3	𫇳	창
+U+2B1F4	𫇴	추
+U+2B1F5	𫇵	내
+U+2B1F6	𫇶	염
+U+2B1F7	𫇷	고
+U+2B1F8	𫇸	죽
+U+2B1F9	𫇹	화
+U+2B1FA	𫇺	장
+U+2B1FB	𫇻	지
+U+2B1FC	𫇼	축
+U+2B1FD	𫇽	농
+U+2B1FE	𫇾	두
+U+2B1FF	𫇿	책
+U+2B200	𫈀	검
+U+2B201	𫈁	
+U+2B202	𫈂	
+U+2B203	𫈃	광
+U+2B204	𫈄	이
+U+2B205	𫈅	용
+U+2B206	𫈆	
+U+2B207	𫈇	간;구
+U+2B208	𫈈	
+U+2B209	𫈉	간;간
+U+2B20A	𫈊	방
+U+2B20B	𫈋	비
+U+2B20C	𫈌	부
+U+2B20D	𫈍	교
+U+2B20E	𫈎	경
+U+2B20F	𫈏	
+U+2B210	𫈐	집
+U+2B211	𫈑	문;민
+U+2B212	𫈒	표
+U+2B213	𫈓	
+U+2B214	𫈔	
+U+2B215	𫈕	
+U+2B216	𫈖	
+U+2B217	𫈗	행
+U+2B218	𫈘	
+U+2B219	𫈙	
+U+2B21A	𫈚	방
+U+2B21B	𫈛	주
+U+2B21C	𫈜	유
+U+2B21D	𫈝	심
+U+2B21E	𫈞	지
+U+2B21F	𫈟	진
+U+2B220	𫈠	가
+U+2B221	𫈡	
+U+2B222	𫈢	후
+U+2B223	𫈣	범
+U+2B224	𫈤	
+U+2B225	𫈥	가
+U+2B226	𫈦	멸
+U+2B227	𫈧	만
+U+2B228	𫈨	
+U+2B229	𫈩	
+U+2B22A	𫈪	
+U+2B22B	𫈫	
+U+2B22C	𫈬	암
+U+2B22D	𫈭	양
+U+2B22E	𫈮	사
+U+2B22F	𫈯	강
+U+2B230	𫈰	흡
+U+2B231	𫈱	
+U+2B232	𫈲	
+U+2B233	𫈳	
+U+2B234	𫈴	장
+U+2B235	𫈵	절
+U+2B236	𫈶	사
+U+2B237	𫈷	동
+U+2B238	𫈸	암
+U+2B239	𫈹	거
+U+2B23A	𫈺	
+U+2B23B	𫈻	호
+U+2B23C	𫈼	멸
+U+2B23D	𫈽	
+U+2B23E	𫈾	사
+U+2B23F	𫈿	가
+U+2B240	𫉀	걸
+U+2B241	𫉁	애
+U+2B242	𫉂	휘
+U+2B243	𫉃	리
+U+2B244	𫉄	저
+U+2B245	𫉅	녀
+U+2B246	𫉆	협
+U+2B247	𫉇	
+U+2B248	𫉈	
+U+2B249	𫉉	황
+U+2B24A	𫉊	퇴
+U+2B24B	𫉋	리
+U+2B24C	𫉌	포
+U+2B24D	𫉍	맥
+U+2B24E	𫉎	
+U+2B24F	𫉏	첩
+U+2B250	𫉐	몽
+U+2B251	𫉑	
+U+2B252	𫉒	
+U+2B253	𫉓	
+U+2B254	𫉔	위
+U+2B255	𫉕	
+U+2B256	𫉖	
+U+2B257	𫉗	만
+U+2B258	𫉘	용
+U+2B259	𫉙	
+U+2B25A	𫉚	
+U+2B25B	𫉛	위
+U+2B25C	𫉜	
+U+2B25D	𫉝	슬
+U+2B25E	𫉞	악
+U+2B25F	𫉟	균
+U+2B260	𫉠	
+U+2B261	𫉡	률
+U+2B262	𫉢	
+U+2B263	𫉣	호
+U+2B264	𫉤	
+U+2B265	𫉥	세
+U+2B266	𫉦	
+U+2B267	𫉧	
+U+2B268	𫉨	탈;달;만
+U+2B269	𫉩	
+U+2B26A	𫉪	휘
+U+2B26B	𫉫	
+U+2B26C	𫉬	획;척
+U+2B26D	𫉭	마
+U+2B26E	𫉮	흠
+U+2B26F	𫉯	호
+U+2B270	𫉰	
+U+2B271	𫉱	
+U+2B272	𫉲	
+U+2B273	𫉳	
+U+2B274	𫉴	
+U+2B275	𫉵	설
+U+2B276	𫉶	람
+U+2B277	𫉷	전
+U+2B278	𫉸	
+U+2B279	𫉹	
+U+2B27A	𫉺	
+U+2B27B	𫉻	
+U+2B27C	𫉼	
+U+2B27D	𫉽	하
+U+2B27E	𫉾	부
+U+2B27F	𫉿	름
+U+2B280	𫊀	
+U+2B281	𫊁	수
+U+2B282	𫊂	
+U+2B283	𫊃	주
+U+2B284	𫊄	
+U+2B285	𫊅	만
+U+2B286	𫊆	확
+U+2B287	𫊇	와
+U+2B288	𫊈	찰
+U+2B289	𫊉	삽
+U+2B28A	𫊊	호
+U+2B28B	𫊋	
+U+2B28C	𫊌	강
+U+2B28D	𫊍	
+U+2B28E	𫊎	벽
+U+2B28F	𫊏	
+U+2B290	𫊐	요
+U+2B291	𫊑	반
+U+2B292	𫊒	규
+U+2B293	𫊓	홍
+U+2B294	𫊔	
+U+2B295	𫊕	말
+U+2B296	𫊖	
+U+2B297	𫊗	염
+U+2B298	𫊘	
+U+2B299	𫊙	
+U+2B29A	𫊚	속
+U+2B29B	𫊛	척
+U+2B29C	𫊜	첩
+U+2B29D	𫊝	학
+U+2B29E	𫊞	학
+U+2B29F	𫊟	
+U+2B2A0	𫊠	
+U+2B2A1	𫊡	차
+U+2B2A2	𫊢	제
+U+2B2A3	𫊣	우;오
+U+2B2A4	𫊤	비
+U+2B2A5	𫊥	토
+U+2B2A6	𫊦	아
+U+2B2A7	𫊧	절
+U+2B2A8	𫊨	희
+U+2B2A9	𫊩	급
+U+2B2AA	𫊪	장
+U+2B2AB	𫊫	조
+U+2B2AC	𫊬	앙;결
+U+2B2AD	𫊭	앙;결
+U+2B2AE	𫊮	로
+U+2B2AF	𫊯	호;평
+U+2B2B0	𫊰	외
+U+2B2B1	𫊱	견
+U+2B2B2	𫊲	권
+U+2B2B3	𫊳	리
+U+2B2B4	𫊴	탁
+U+2B2B5	𫊵	치
+U+2B2B6	𫊶	광
+U+2B2B7	𫊷	살
+U+2B2B8	𫊸	교
+U+2B2B9	𫊹	회
+U+2B2BA	𫊺	사
+U+2B2BB	𫊻	심
+U+2B2BC	𫊼	익
+U+2B2BD	𫊽	
+U+2B2BE	𫊾	신
+U+2B2BF	𫊿	
+U+2B2C0	𫋀	송
+U+2B2C1	𫋁	신
+U+2B2C2	𫋂	처
+U+2B2C3	𫋃	
+U+2B2C4	𫋄	구
+U+2B2C5	𫋅	근
+U+2B2C6	𫋆	
+U+2B2C7	𫋇	교
+U+2B2C8	𫋈	방
+U+2B2C9	𫋉	
+U+2B2CA	𫋊	융
+U+2B2CB	𫋋	
+U+2B2CC	𫋌	특
+U+2B2CD	𫋍	객
+U+2B2CE	𫋎	
+U+2B2CF	𫋏	
+U+2B2D0	𫋐	공
+U+2B2D1	𫋑	
+U+2B2D2	𫋒	회
+U+2B2D3	𫋓	답
+U+2B2D4	𫋔	솔
+U+2B2D5	𫋕	가
+U+2B2D6	𫋖	
+U+2B2D7	𫋗	작
+U+2B2D8	𫋘	
+U+2B2D9	𫋙	
+U+2B2DA	𫋚	
+U+2B2DB	𫋛	청
+U+2B2DC	𫋜	작
+U+2B2DD	𫋝	
+U+2B2DE	𫋞	연
+U+2B2DF	𫋟	견
+U+2B2E0	𫋠	봉
+U+2B2E1	𫋡	
+U+2B2E2	𫋢	지
+U+2B2E3	𫋣	기
+U+2B2E4	𫋤	수
+U+2B2E5	𫋥	
+U+2B2E6	𫋦	취
+U+2B2E7	𫋧	광
+U+2B2E8	𫋨	
+U+2B2E9	𫋩	
+U+2B2EA	𫋪	비
+U+2B2EB	𫋫	
+U+2B2EC	𫋬	
+U+2B2ED	𫋭	
+U+2B2EE	𫋮	어
+U+2B2EF	𫋯	
+U+2B2F0	𫋰	
+U+2B2F1	𫋱	구
+U+2B2F2	𫋲	구
+U+2B2F3	𫋳	방
+U+2B2F4	𫋴	곤
+U+2B2F5	𫋵	건;신
+U+2B2F6	𫋶	초
+U+2B2F7	𫋷	탁
+U+2B2F8	𫋸	
+U+2B2F9	𫋹	요
+U+2B2FA	𫋺	조
+U+2B2FB	𫋻	괴
+U+2B2FC	𫋼	사
+U+2B2FD	𫋽	록;각;교
+U+2B2FE	𫋾	고
+U+2B2FF	𫋿	매
+U+2B300	𫌀	적
+U+2B301	𫌁	식
+U+2B302	𫌂	유
+U+2B303	𫌃	
+U+2B304	𫌄	삼
+U+2B305	𫌅	양
+U+2B306	𫌆	몌
+U+2B307	𫌇	접
+U+2B308	𫌈	
+U+2B309	𫌉	
+U+2B30A	𫌊	기
+U+2B30B	𫌋	수
+U+2B30C	𫌌	숭
+U+2B30D	𫌍	말
+U+2B30E	𫌎	탈
+U+2B30F	𫌏	
+U+2B310	𫌐	월
+U+2B311	𫌑	보
+U+2B312	𫌒	통
+U+2B313	𫌓	례
+U+2B314	𫌔	군
+U+2B315	𫌕	력
+U+2B316	𫌖	련
+U+2B317	𫌗	사
+U+2B318	𫌘	총
+U+2B319	𫌙	간
+U+2B31A	𫌚	속
+U+2B31B	𫌛	봉
+U+2B31C	𫌜	
+U+2B31D	𫌝	황
+U+2B31E	𫌞	가
+U+2B31F	𫌟	
+U+2B320	𫌠	체
+U+2B321	𫌡	찬
+U+2B322	𫌢	남
+U+2B323	𫌣	협
+U+2B324	𫌤	성
+U+2B325	𫌥	
+U+2B326	𫌦	찬
+U+2B327	𫌧	
+U+2B328	𫌨	라
+U+2B329	𫌩	후
+U+2B32A	𫌪	맥
+U+2B32B	𫌫	련
+U+2B32C	𫌬	표
+U+2B32D	𫌭	미
+U+2B32E	𫌮	
+U+2B32F	𫌯	교
+U+2B330	𫌰	상
+U+2B331	𫌱	위
+U+2B332	𫌲	고
+U+2B333	𫌳	녀
+U+2B334	𫌴	문
+U+2B335	𫌵	수
+U+2B336	𫌶	비
+U+2B337	𫌷	신
+U+2B338	𫌸	건
+U+2B339	𫌹	
+U+2B33A	𫌺	
+U+2B33B	𫌻	
+U+2B33C	𫌼	련
+U+2B33D	𫌽	수
+U+2B33E	𫌾	
+U+2B33F	𫌿	
+U+2B340	𫍀	금
+U+2B341	𫍁	천
+U+2B342	𫍂	
+U+2B343	𫍃	용
+U+2B344	𫍄	비
+U+2B345	𫍅	
+U+2B346	𫍆	은
+U+2B347	𫍇	용
+U+2B348	𫍈	도
+U+2B349	𫍉	범
+U+2B34A	𫍊	
+U+2B34B	𫍋	문
+U+2B34C	𫍌	통
+U+2B34D	𫍍	작
+U+2B34E	𫍎	
+U+2B34F	𫍏	
+U+2B350	𫍐	제
+U+2B351	𫍑	응
+U+2B352	𫍒	실
+U+2B353	𫍓	렴
+U+2B354	𫍔	
+U+2B355	𫍕	기
+U+2B356	𫍖	
+U+2B357	𫍗	
+U+2B358	𫍘	
+U+2B359	𫍙	이
+U+2B35A	𫍚	요
+U+2B35B	𫍛	분
+U+2B35C	𫍜	거
+U+2B35D	𫍝	간
+U+2B35E	𫍞	호
+U+2B35F	𫍟	이;타
+U+2B360	𫍠	원
+U+2B361	𫍡	이
+U+2B362	𫍢	뇨
+U+2B363	𫍣	동
+U+2B364	𫍤	교
+U+2B365	𫍥	조
+U+2B366	𫍦	누
+U+2B367	𫍧	치
+U+2B368	𫍨	진
+U+2B369	𫍩	과
+U+2B36A	𫍪	기
+U+2B36B	𫍫	엄
+U+2B36C	𫍬	망
+U+2B36D	𫍭	녕
+U+2B36E	𫍮	굴
+U+2B36F	𫍯	함
+U+2B370	𫍰	시
+U+2B371	𫍱	전
+U+2B372	𫍲	소
+U+2B373	𫍳	종
+U+2B374	𫍴	루
+U+2B375	𫍵	오
+U+2B376	𫍶	치
+U+2B377	𫍷	괴
+U+2B378	𫍸	선
+U+2B379	𫍹	조
+U+2B37A	𫍺	사
+U+2B37B	𫍻	희
+U+2B37C	𫍼	종
+U+2B37D	𫍽	현
+U+2B37E	𫍾	녕
+U+2B37F	𫍿	전
+U+2B380	𫎀	합
+U+2B381	𫎁	
+U+2B382	𫎂	곡
+U+2B383	𫎃	부
+U+2B384	𫎄	녕
+U+2B385	𫎅	
+U+2B386	𫎆	종
+U+2B387	𫎇	몽
+U+2B388	𫎈	
+U+2B389	𫎉	관
+U+2B38A	𫎊	익
+U+2B38B	𫎋	유
+U+2B38C	𫎌	루
+U+2B38D	𫎍	맥
+U+2B38E	𫎎	이
+U+2B38F	𫎏	
+U+2B390	𫎐	
+U+2B391	𫎑	패
+U+2B392	𫎒	방
+U+2B393	𫎓	저
+U+2B394	𫎔	화
+U+2B395	𫎕	
+U+2B396	𫎖	
+U+2B397	𫎗	부
+U+2B398	𫎘	찰;철
+U+2B399	𫎙	태
+U+2B39A	𫎚	매
+U+2B39B	𫎛	지
+U+2B39C	𫎜	췌
+U+2B39D	𫎝	개
+U+2B39E	𫎞	
+U+2B39F	𫎟	
+U+2B3A0	𫎠	현
+U+2B3A1	𫎡	고
+U+2B3A2	𫎢	추;취
+U+2B3A3	𫎣	영
+U+2B3A4	𫎤	현
+U+2B3A5	𫎥	
+U+2B3A6	𫎦	룡
+U+2B3A7	𫎧	구
+U+2B3A8	𫎨	렴;간;담
+U+2B3A9	𫎩	침
+U+2B3AA	𫎪	친
+U+2B3AB	𫎫	담
+U+2B3AC	𫎬	감
+U+2B3AD	𫎭	정
+U+2B3AE	𫎮	
+U+2B3AF	𫎯	석
+U+2B3B0	𫎰	자
+U+2B3B1	𫎱	력
+U+2B3B2	𫎲	시
+U+2B3B3	𫎳	필
+U+2B3B4	𫎴	통
+U+2B3B5	𫎵	극
+U+2B3B6	𫎶	홍
+U+2B3B7	𫎷	승
+U+2B3B8	𫎸	잠
+U+2B3B9	𫎹	득
+U+2B3BA	𫎺	참
+U+2B3BB	𫎻	성
+U+2B3BC	𫎼	퇴
+U+2B3BD	𫎽	애
+U+2B3BE	𫎾	천
+U+2B3BF	𫎿	상
+U+2B3C0	𫏀	
+U+2B3C1	𫏁	
+U+2B3C2	𫏂	벽
+U+2B3C3	𫏃	장
+U+2B3C4	𫏄	감
+U+2B3C5	𫏅	결
+U+2B3C6	𫏆	발
+U+2B3C7	𫏇	공
+U+2B3C8	𫏈	광
+U+2B3C9	𫏉	
+U+2B3CA	𫏊	임
+U+2B3CB	𫏋	교
+U+2B3CC	𫏌	래
+U+2B3CD	𫏍	기
+U+2B3CE	𫏎	찰
+U+2B3CF	𫏏	
+U+2B3D0	𫏐	잠
+U+2B3D1	𫏑	라
+U+2B3D2	𫏒	파
+U+2B3D3	𫏓	괴
+U+2B3D4	𫏔	촉
+U+2B3D5	𫏕	경
+U+2B3D6	𫏖	원
+U+2B3D7	𫏗	배
+U+2B3D8	𫏘	답
+U+2B3D9	𫏙	
+U+2B3DA	𫏚	북
+U+2B3DB	𫏛	석
+U+2B3DC	𫏜	
+U+2B3DD	𫏝	조
+U+2B3DE	𫏞	단
+U+2B3DF	𫏟	
+U+2B3E0	𫏠	람
+U+2B3E1	𫏡	
+U+2B3E2	𫏢	중
+U+2B3E3	𫏣	
+U+2B3E4	𫏤	소
+U+2B3E5	𫏥	과
+U+2B3E6	𫏦	랍
+U+2B3E7	𫏧	단
+U+2B3E8	𫏨	선
+U+2B3E9	𫏩	백
+U+2B3EA	𫏪	충
+U+2B3EB	𫏫	택
+U+2B3EC	𫏬	량
+U+2B3ED	𫏭	미
+U+2B3EE	𫏮	공
+U+2B3EF	𫏯	궤;구
+U+2B3F0	𫏰	단
+U+2B3F1	𫏱	회
+U+2B3F2	𫏲	
+U+2B3F3	𫏳	차
+U+2B3F4	𫏴	거
+U+2B3F5	𫏵	증
+U+2B3F6	𫏶	협
+U+2B3F7	𫏷	광
+U+2B3F8	𫏸	위
+U+2B3F9	𫏹	병
+U+2B3FA	𫏺	완
+U+2B3FB	𫏻	루
+U+2B3FC	𫏼	련
+U+2B3FD	𫏽	룡
+U+2B3FE	𫏾	략
+U+2B3FF	𫏿	오
+U+2B400	𫐀	
+U+2B401	𫐁	격
+U+2B402	𫐂	루
+U+2B403	𫐃	신
+U+2B404	𫐄	월
+U+2B405	𫐅	산
+U+2B406	𫐆	력
+U+2B407	𫐇	납
+U+2B408	𫐈	발
+U+2B409	𫐉	령
+U+2B40A	𫐊	분
+U+2B40B	𫐋	지
+U+2B40C	𫐌	병
+U+2B40D	𫐍	전
+U+2B40E	𫐎	의
+U+2B40F	𫐏	주
+U+2B410	𫐐	예
+U+2B411	𫐑	관
+U+2B412	𫐒	횡
+U+2B413	𫐓	유
+U+2B414	𫐔	갑
+U+2B415	𫐕	세
+U+2B416	𫐖	교
+U+2B417	𫐗	복
+U+2B418	𫐘	감
+U+2B419	𫐙	뢰
+U+2B41A	𫐚	을
+U+2B41B	𫐛	랄
+U+2B41C	𫐜	이
+U+2B41D	𫐝	해
+U+2B41E	𫐞	곤
+U+2B41F	𫐟	
+U+2B420	𫐠	술
+U+2B421	𫐡	금
+U+2B422	𫐢	고
+U+2B423	𫐣	병
+U+2B424	𫐤	
+U+2B425	𫐥	로
+U+2B426	𫐦	극
+U+2B427	𫐧	
+U+2B428	𫐨	
+U+2B429	𫐩	
+U+2B42A	𫐪	니
+U+2B42B	𫐫	규
+U+2B42C	𫐬	
+U+2B42D	𫐭	쟁
+U+2B42E	𫐮	도
+U+2B42F	𫐯	
+U+2B430	𫐰	예
+U+2B431	𫐱	종
+U+2B432	𫐲	
+U+2B433	𫐳	체
+U+2B434	𫐴	배
+U+2B435	𫐵	
+U+2B436	𫐶	일
+U+2B437	𫐷	루
+U+2B438	𫐸	
+U+2B439	𫐹	미
+U+2B43A	𫐺	은
+U+2B43B	𫐻	추
+U+2B43C	𫐼	방
+U+2B43D	𫐽	표
+U+2B43E	𫐾	배
+U+2B43F	𫐿	연
+U+2B440	𫑀	거
+U+2B441	𫑁	의
+U+2B442	𫑂	
+U+2B443	𫑃	지
+U+2B444	𫑄	정
+U+2B445	𫑅	령
+U+2B446	𫑆	변
+U+2B447	𫑇	기
+U+2B448	𫑈	우
+U+2B449	𫑉	
+U+2B44A	𫑊	훈
+U+2B44B	𫑋	연
+U+2B44C	𫑌	빙
+U+2B44D	𫑍	견
+U+2B44E	𫑎	연
+U+2B44F	𫑏	나
+U+2B450	𫑐	려
+U+2B451	𫑑	년
+U+2B452	𫑒	북
+U+2B453	𫑓	략
+U+2B454	𫑔	영
+U+2B455	𫑕	동
+U+2B456	𫑖	선
+U+2B457	𫑗	묘
+U+2B458	𫑘	전
+U+2B459	𫑙	란
+U+2B45A	𫑚	언
+U+2B45B	𫑛	월
+U+2B45C	𫑜	도
+U+2B45D	𫑝	
+U+2B45E	𫑞	
+U+2B45F	𫑟	언
+U+2B460	𫑠	
+U+2B461	𫑡	맹
+U+2B462	𫑢	방
+U+2B463	𫑣	비
+U+2B464	𫑤	
+U+2B465	𫑥	신
+U+2B466	𫑦	안
+U+2B467	𫑧	곡
+U+2B468	𫑨	
+U+2B469	𫑩	권
+U+2B46A	𫑪	뢰
+U+2B46B	𫑫	자
+U+2B46C	𫑬	
+U+2B46D	𫑭	경
+U+2B46E	𫑮	전
+U+2B46F	𫑯	고
+U+2B470	𫑰	룡
+U+2B471	𫑱	두
+U+2B472	𫑲	당
+U+2B473	𫑳	환
+U+2B474	𫑴	존
+U+2B475	𫑵	
+U+2B476	𫑶	
+U+2B477	𫑷	염
+U+2B478	𫑸	배
+U+2B479	𫑹	차
+U+2B47A	𫑺	시
+U+2B47B	𫑻	임
+U+2B47C	𫑼	
+U+2B47D	𫑽	시
+U+2B47E	𫑾	름
+U+2B47F	𫑿	초
+U+2B480	𫒀	월
+U+2B481	𫒁	
+U+2B482	𫒂	
+U+2B483	𫒃	탁
+U+2B484	𫒄	리
+U+2B485	𫒅	접
+U+2B486	𫒆	
+U+2B487	𫒇	둔
+U+2B488	𫒈	녀
+U+2B489	𫒉	읍
+U+2B48A	𫒊	극
+U+2B48B	𫒋	금
+U+2B48C	𫒌	개
+U+2B48D	𫒍	
+U+2B48E	𫒎	음
+U+2B48F	𫒏	명
+U+2B490	𫒐	쇳
+U+2B491	𫒑	화
+U+2B492	𫒒	구
+U+2B493	𫒓	
+U+2B494	𫒔	성
+U+2B495	𫒕	진
+U+2B496	𫒖	석
+U+2B497	𫒗	익
+U+2B498	𫒘	부
+U+2B499	𫒙	수
+U+2B49A	𫒚	역
+U+2B49B	𫒛	자
+U+2B49C	𫒜	
+U+2B49D	𫒝	형
+U+2B49E	𫒞	계
+U+2B49F	𫒟	여
+U+2B4A0	𫒠	계
+U+2B4A1	𫒡	선
+U+2B4A2	𫒢	한
+U+2B4A3	𫒣	란
+U+2B4A4	𫒤	학
+U+2B4A5	𫒥	망
+U+2B4A6	𫒦	직
+U+2B4A7	𫒧	우
+U+2B4A8	𫒨	곤
+U+2B4A9	𫒩	방
+U+2B4AA	𫒪	예
+U+2B4AB	𫒫	적
+U+2B4AC	𫒬	착
+U+2B4AD	𫒭	보
+U+2B4AE	𫒮	
+U+2B4AF	𫒯	
+U+2B4B0	𫒰	로
+U+2B4B1	𫒱	사
+U+2B4B2	𫒲	배
+U+2B4B3	𫒳	
+U+2B4B4	𫒴	객
+U+2B4B5	𫒵	예
+U+2B4B6	𫒶	극
+U+2B4B7	𫒷	탁
+U+2B4B8	𫒸	맘
+U+2B4B9	𫒹	
+U+2B4BA	𫒺	감
+U+2B4BB	𫒻	견
+U+2B4BC	𫒼	역
+U+2B4BD	𫒽	형
+U+2B4BE	𫒾	납
+U+2B4BF	𫒿	대
+U+2B4C0	𫓀	
+U+2B4C1	𫓁	숭
+U+2B4C2	𫓂	월
+U+2B4C3	𫓃	
+U+2B4C4	𫓄	수
+U+2B4C5	𫓅	벽
+U+2B4C6	𫓆	박
+U+2B4C7	𫓇	조
+U+2B4C8	𫓈	
+U+2B4C9	𫓉	량
+U+2B4CA	𫓊	정
+U+2B4CB	𫓋	
+U+2B4CC	𫓌	삽
+U+2B4CD	𫓍	
+U+2B4CE	𫓎	
+U+2B4CF	𫓏	감
+U+2B4D0	𫓐	례
+U+2B4D1	𫓑	총
+U+2B4D2	𫓒	농
+U+2B4D3	𫓓	
+U+2B4D4	𫓔	의
+U+2B4D5	𫓕	돈
+U+2B4D6	𫓖	륭
+U+2B4D7	𫓗	행
+U+2B4D8	𫓘	
+U+2B4D9	𫓙	유
+U+2B4DA	𫓚	
+U+2B4DB	𫓛	
+U+2B4DC	𫓜	순;돈
+U+2B4DD	𫓝	
+U+2B4DE	𫓞	림
+U+2B4DF	𫓟	매
+U+2B4E0	𫓠	성
+U+2B4E1	𫓡	
+U+2B4E2	𫓢	
+U+2B4E3	𫓣	현
+U+2B4E4	𫓤	참
+U+2B4E5	𫓥	팔
+U+2B4E6	𫓦	결
+U+2B4E7	𫓧	부
+U+2B4E8	𫓨	과
+U+2B4E9	𫓩	총
+U+2B4EA	𫓪	연
+U+2B4EB	𫓫	혜
+U+2B4EC	𫓬	잡
+U+2B4ED	𫓭	앙
+U+2B4EE	𫓮	류
+U+2B4EF	𫓯	계
+U+2B4F0	𫓰	술
+U+2B4F1	𫓱	교
+U+2B4F2	𫓲	균
+U+2B4F3	𫓳	래
+U+2B4F4	𫓴	모
+U+2B4F5	𫓵	신
+U+2B4F6	𫓶	현
+U+2B4F7	𫓷	
+U+2B4F8	𫓸	맘
+U+2B4F9	𫓹	기
+U+2B4FA	𫓺	로
+U+2B4FB	𫓻	녑
+U+2B4FC	𫓼	화
+U+2B4FD	𫓽	종
+U+2B4FE	𫓾	육
+U+2B4FF	𫓿	취
+U+2B500	𫔀	련
+U+2B501	𫔁	분
+U+2B502	𫔂	시
+U+2B503	𫔃	감
+U+2B504	𫔄	유
+U+2B505	𫔅	색
+U+2B506	𫔆	파
+U+2B507	𫔇	비
+U+2B508	𫔈	삭
+U+2B509	𫔉	영
+U+2B50A	𫔊	수
+U+2B50B	𫔋	관
+U+2B50C	𫔌	산
+U+2B50D	𫔍	번
+U+2B50E	𫔎	휼
+U+2B50F	𫔏	잔
+U+2B510	𫔐	고
+U+2B511	𫔑	전
+U+2B512	𫔒	웅
+U+2B513	𫔓	확
+U+2B514	𫔔	휴
+U+2B515	𫔕	류
+U+2B516	𫔖	농
+U+2B517	𫔗	첨
+U+2B518	𫔘	
+U+2B519	𫔙	인
+U+2B51A	𫔚	중
+U+2B51B	𫔛	화
+U+2B51C	𫔜	
+U+2B51D	𫔝	
+U+2B51E	𫔞	유
+U+2B51F	𫔟	대
+U+2B520	𫔠	동
+U+2B521	𫔡	두
+U+2B522	𫔢	관
+U+2B523	𫔣	
+U+2B524	𫔤	거
+U+2B525	𫔥	기
+U+2B526	𫔦	오
+U+2B527	𫔧	
+U+2B528	𫔨	식
+U+2B529	𫔩	모
+U+2B52A	𫔪	
+U+2B52B	𫔫	
+U+2B52C	𫔬	만
+U+2B52D	𫔭	개
+U+2B52E	𫔮	한
+U+2B52F	𫔯	두
+U+2B530	𫔰	변
+U+2B531	𫔱	
+U+2B532	𫔲	효
+U+2B533	𫔳	거
+U+2B534	𫔴	린
+U+2B535	𫔵	치
+U+2B536	𫔶	얼
+U+2B537	𫔷	기
+U+2B538	𫔸	거
+U+2B539	𫔹	온
+U+2B53A	𫔺	
+U+2B53B	𫔻	문
+U+2B53C	𫔼	
+U+2B53D	𫔽	성
+U+2B53E	𫔾	이
+U+2B53F	𫔿	정
+U+2B540	𫕀	
+U+2B541	𫕁	오
+U+2B542	𫕂	원
+U+2B543	𫕃	서
+U+2B544	𫕄	언
+U+2B545	𫕅	제
+U+2B546	𫕆	격
+U+2B547	𫕇	이
+U+2B548	𫕈	애
+U+2B549	𫕉	원
+U+2B54A	𫕊	
+U+2B54B	𫕋	
+U+2B54C	𫕌	
+U+2B54D	𫕍	훤
+U+2B54E	𫕎	옹
+U+2B54F	𫕏	
+U+2B550	𫕐	상
+U+2B551	𫕑	부
+U+2B552	𫕒	
+U+2B553	𫕓	
+U+2B554	𫕔	료
+U+2B555	𫕕	격
+U+2B556	𫕖	함
+U+2B557	𫕗	
+U+2B558	𫕘	강
+U+2B559	𫕙	례
+U+2B55A	𫕚	종
+U+2B55B	𫕛	괄
+U+2B55C	𫕜	추
+U+2B55D	𫕝	즐
+U+2B55E	𫕞	령
+U+2B55F	𫕟	소
+U+2B560	𫕠	파
+U+2B561	𫕡	북
+U+2B562	𫕢	매
+U+2B563	𫕣	산
+U+2B564	𫕤	
+U+2B565	𫕥	운
+U+2B566	𫕦	문
+U+2B567	𫕧	분
+U+2B568	𫕨	삼
+U+2B569	𫕩	홍
+U+2B56A	𫕪	렬
+U+2B56B	𫕫	진
+U+2B56C	𫕬	륵
+U+2B56D	𫕭	
+U+2B56E	𫕮	혁
+U+2B56F	𫕯	위
+U+2B570	𫕰	봉
+U+2B571	𫕱	
+U+2B572	𫕲	유
+U+2B573	𫕳	
+U+2B574	𫕴	애
+U+2B575	𫕵	
+U+2B576	𫕶	벽
+U+2B577	𫕷	
+U+2B578	𫕸	청
+U+2B579	𫕹	청
+U+2B57A	𫕺	반
+U+2B57B	𫕻	청
+U+2B57C	𫕼	청
+U+2B57D	𫕽	비
+U+2B57E	𫕾	비
+U+2B57F	𫕿	양;상
+U+2B580	𫖀	말
+U+2B581	𫖁	조
+U+2B582	𫖂	나
+U+2B583	𫖃	회
+U+2B584	𫖄	가
+U+2B585	𫖅	롱
+U+2B586	𫖆	
+U+2B587	𫖇	화
+U+2B588	𫖈	혁
+U+2B589	𫖉	비
+U+2B58A	𫖊	
+U+2B58B	𫖋	하;단
+U+2B58C	𫖌	위
+U+2B58D	𫖍	불
+U+2B58E	𫖎	경
+U+2B58F	𫖏	만
+U+2B590	𫖐	위
+U+2B591	𫖑	금;검
+U+2B592	𫖒	필
+U+2B593	𫖓	병
+U+2B594	𫖔	배
+U+2B595	𫖕	구
+U+2B596	𫖖	청;창
+U+2B597	𫖗	
+U+2B598	𫖘	변
+U+2B599	𫖙	정
+U+2B59A	𫖚	요
+U+2B59B	𫖛	화
+U+2B59C	𫖜	목
+U+2B59D	𫖝	
+U+2B59E	𫖞	척
+U+2B59F	𫖟	
+U+2B5A0	𫖠	수
+U+2B5A1	𫖡	각
+U+2B5A2	𫖢	호
+U+2B5A3	𫖣	
+U+2B5A4	𫖤	
+U+2B5A5	𫖥	개
+U+2B5A6	𫖦	상
+U+2B5A7	𫖧	횡
+U+2B5A8	𫖨	
+U+2B5A9	𫖩	
+U+2B5AA	𫖪	걸;갈;곤
+U+2B5AB	𫖫	침
+U+2B5AC	𫖬	진
+U+2B5AD	𫖭	태
+U+2B5AE	𫖮	의
+U+2B5AF	𫖯	부
+U+2B5B0	𫖰	다
+U+2B5B1	𫖱	간
+U+2B5B2	𫖲	운
+U+2B5B3	𫖳	군
+U+2B5B4	𫖴	책
+U+2B5B5	𫖵	악
+U+2B5B6	𫖶	간
+U+2B5B7	𫖷	첩
+U+2B5B8	𫖸	원
+U+2B5B9	𫖹	축
+U+2B5BA	𫖺	번
+U+2B5BB	𫖻	공
+U+2B5BC	𫖼	말
+U+2B5BD	𫖽	피
+U+2B5BE	𫖾	유
+U+2B5BF	𫖿	미
+U+2B5C0	𫗀	해
+U+2B5C1	𫗁	퇴
+U+2B5C2	𫗂	퇴
+U+2B5C3	𫗃	유
+U+2B5C4	𫗄	유
+U+2B5C5	𫗅	비
+U+2B5C6	𫗆	
+U+2B5C7	𫗇	율
+U+2B5C8	𫗈	발
+U+2B5C9	𫗉	봉
+U+2B5CA	𫗊	암
+U+2B5CB	𫗋	실
+U+2B5CC	𫗌	분
+U+2B5CD	𫗍	효
+U+2B5CE	𫗎	
+U+2B5CF	𫗏	유
+U+2B5D0	𫗐	
+U+2B5D1	𫗑	구
+U+2B5D2	𫗒	알
+U+2B5D3	𫗓	고
+U+2B5D4	𫗔	난
+U+2B5D5	𫗕	남
+U+2B5D6	𫗖	면
+U+2B5D7	𫗗	마;미
+U+2B5D8	𫗘	해
+U+2B5D9	𫗙	책
+U+2B5DA	𫗚	잠
+U+2B5DB	𫗛	
+U+2B5DC	𫗜	
+U+2B5DD	𫗝	
+U+2B5DE	𫗞	전
+U+2B5DF	𫗟	원
+U+2B5E0	𫗠	장
+U+2B5E1	𫗡	호
+U+2B5E2	𫗢	작
+U+2B5E3	𫗣	필
+U+2B5E4	𫗤	사
+U+2B5E5	𫗥	운
+U+2B5E6	𫗦	포
+U+2B5E7	𫗧	속
+U+2B5E8	𫗨	랑
+U+2B5E9	𫗩	라
+U+2B5EA	𫗪	위
+U+2B5EB	𫗫	호
+U+2B5EC	𫗬	난
+U+2B5ED	𫗭	위
+U+2B5EE	𫗮	황
+U+2B5EF	𫗯	후
+U+2B5F0	𫗰	퇴
+U+2B5F1	𫗱	렴
+U+2B5F2	𫗲	사
+U+2B5F3	𫗳	강
+U+2B5F4	𫗴	전
+U+2B5F5	𫗵	양
+U+2B5F6	𫗶	호
+U+2B5F7	𫗷	매
+U+2B5F8	𫗸	석
+U+2B5F9	𫗹	침
+U+2B5FA	𫗺	요
+U+2B5FB	𫗻	묘
+U+2B5FC	𫗼	
+U+2B5FD	𫗽	
+U+2B5FE	𫗾	직
+U+2B5FF	𫗿	비
+U+2B600	𫘀	오
+U+2B601	𫘁	책
+U+2B602	𫘂	집
+U+2B603	𫘃	흠
+U+2B604	𫘄	보
+U+2B605	𫘅	어
+U+2B606	𫘆	부
+U+2B607	𫘇	필
+U+2B608	𫘈	
+U+2B609	𫘉	화
+U+2B60A	𫘊	희
+U+2B60B	𫘋	
+U+2B60C	𫘌	호
+U+2B60D	𫘍	경
+U+2B60E	𫘎	
+U+2B60F	𫘏	면
+U+2B610	𫘐	
+U+2B611	𫘑	미
+U+2B612	𫘒	
+U+2B613	𫘓	속
+U+2B614	𫘔	부
+U+2B615	𫘕	겸
+U+2B616	𫘖	마
+U+2B617	𫘗	래
+U+2B618	𫘘	로
+U+2B619	𫘙	봉
+U+2B61A	𫘚	분
+U+2B61B	𫘛	간
+U+2B61C	𫘜	문
+U+2B61D	𫘝	결
+U+2B61E	𫘞	타
+U+2B61F	𫘟	파
+U+2B620	𫘠	치
+U+2B621	𫘡	경
+U+2B622	𫘢	
+U+2B623	𫘣	한
+U+2B624	𫘤	애
+U+2B625	𫘥	곤
+U+2B626	𫘦	도
+U+2B627	𫘧	록
+U+2B628	𫘨	제
+U+2B629	𫘩	황
+U+2B62A	𫘪	원
+U+2B62B	𫘫	안
+U+2B62C	𫘬	혜
+U+2B62D	𫘭	상
+U+2B62E	𫘮	적
+U+2B62F	𫘯	증
+U+2B630	𫘰	단
+U+2B631	𫘱	휴
+U+2B632	𫘲	욱
+U+2B633	𫘳	건
+U+2B634	𫘴	악
+U+2B635	𫘵	형
+U+2B636	𫘶	호
+U+2B637	𫘷	조
+U+2B638	𫘸	을
+U+2B639	𫘹	표
+U+2B63A	𫘺	녀
+U+2B63B	𫘻	담
+U+2B63C	𫘼	유
+U+2B63D	𫘽	괄
+U+2B63E	𫘾	진
+U+2B63F	𫘿	군
+U+2B640	𫙀	기
+U+2B641	𫙁	
+U+2B642	𫙂	루
+U+2B643	𫙃	만
+U+2B644	𫙄	과;라
+U+2B645	𫙅	용
+U+2B646	𫙆	부
+U+2B647	𫙇	확
+U+2B648	𫙈	팔
+U+2B649	𫙉	보
+U+2B64A	𫙊	
+U+2B64B	𫙋	
+U+2B64C	𫙌	괴
+U+2B64D	𫙍	맹
+U+2B64E	𫙎	단
+U+2B64F	𫙏	
+U+2B650	𫙐	어
+U+2B651	𫙑	수
+U+2B652	𫙒	
+U+2B653	𫙓	사
+U+2B654	𫙔	로
+U+2B655	𫙕	혈
+U+2B656	𫙖	니
+U+2B657	𫙗	
+U+2B658	𫙘	희
+U+2B659	𫙙	포
+U+2B65A	𫙚	
+U+2B65B	𫙛	회
+U+2B65C	𫙜	
+U+2B65D	𫙝	응
+U+2B65E	𫙞	
+U+2B65F	𫙟	
+U+2B660	𫙠	
+U+2B661	𫙡	
+U+2B662	𫙢	접
+U+2B663	𫙣	리
+U+2B664	𫙤	항
+U+2B665	𫙥	
+U+2B666	𫙦	물
+U+2B667	𫙧	근
+U+2B668	𫙨	하
+U+2B669	𫙩	
+U+2B66A	𫙪	
+U+2B66B	𫙫	
+U+2B66C	𫙬	
+U+2B66D	𫙭	조;소
+U+2B66E	𫙮	걸
+U+2B66F	𫙯	
+U+2B670	𫙰	
+U+2B671	𫙱	
+U+2B672	𫙲	상
+U+2B673	𫙳	
+U+2B674	𫙴	
+U+2B675	𫙵	
+U+2B676	𫙶	
+U+2B677	𫙷	궤
+U+2B678	𫙸	개
+U+2B679	𫙹	람
+U+2B67A	𫙺	
+U+2B67B	𫙻	
+U+2B67C	𫙼	
+U+2B67D	𫙽	만
+U+2B67E	𫙾	
+U+2B67F	𫙿	만
+U+2B680	𫚀	
+U+2B681	𫚁	치
+U+2B682	𫚂	절
+U+2B683	𫚃	
+U+2B684	𫚄	외
+U+2B685	𫚅	렵
+U+2B686	𫚆	
+U+2B687	𫚇	속
+U+2B688	𫚈	서
+U+2B689	𫚉	홍
+U+2B68A	𫚊	양
+U+2B68B	𫚋	전
+U+2B68C	𫚌	사
+U+2B68D	𫚍	분
+U+2B68E	𫚎	병
+U+2B68F	𫚏	발
+U+2B690	𫚐	앙
+U+2B691	𫚑	필
+U+2B692	𫚒	불
+U+2B693	𫚓	렬
+U+2B694	𫚔	회
+U+2B695	𫚕	사
+U+2B696	𫚖	제
+U+2B697	𫚗	합
+U+2B698	𫚘	화
+U+2B699	𫚙	포
+U+2B69A	𫚚	첩
+U+2B69B	𫚛	탈
+U+2B69C	𫚜	규
+U+2B69D	𫚝	과;화;동
+U+2B69E	𫚞	리
+U+2B69F	𫚟	항
+U+2B6A0	𫚠	선
+U+2B6A1	𫚡	추
+U+2B6A2	𫚢	언
+U+2B6A3	𫚣	편
+U+2B6A4	𫚤	자
+U+2B6A5	𫚥	하
+U+2B6A6	𫚦	용
+U+2B6A7	𫚧	수
+U+2B6A8	𫚨	부
+U+2B6A9	𫚩	팽
+U+2B6AA	𫚪	율
+U+2B6AB	𫚫	소
+U+2B6AC	𫚬	료
+U+2B6AD	𫚭	렵
+U+2B6AE	𫚮	을
+U+2B6AF	𫚯	안
+U+2B6B0	𫚰	
+U+2B6B1	𫚱	구
+U+2B6B2	𫚲	짐
+U+2B6B3	𫚳	점
+U+2B6B4	𫚴	추
+U+2B6B5	𫚵	
+U+2B6B6	𫚶	호
+U+2B6B7	𫚷	
+U+2B6B8	𫚸	유
+U+2B6B9	𫚹	무
+U+2B6BA	𫚺	
+U+2B6BB	𫚻	
+U+2B6BC	𫚼	견
+U+2B6BD	𫚽	징
+U+2B6BE	𫚾	
+U+2B6BF	𫚿	
+U+2B6C0	𫛀	
+U+2B6C1	𫛁	무
+U+2B6C2	𫛂	
+U+2B6C3	𫛃	황
+U+2B6C4	𫛄	
+U+2B6C5	𫛅	
+U+2B6C6	𫛆	용
+U+2B6C7	𫛇	
+U+2B6C8	𫛈	구
+U+2B6C9	𫛉	
+U+2B6CA	𫛊	비
+U+2B6CB	𫛋	
+U+2B6CC	𫛌	가
+U+2B6CD	𫛍	
+U+2B6CE	𫛎	조
+U+2B6CF	𫛏	학
+U+2B6D0	𫛐	국
+U+2B6D1	𫛑	
+U+2B6D2	𫛒	
+U+2B6D3	𫛓	화
+U+2B6D4	𫛔	
+U+2B6D5	𫛕	곡
+U+2B6D6	𫛖	능
+U+2B6D7	𫛗	탄
+U+2B6D8	𫛘	효
+U+2B6D9	𫛙	
+U+2B6DA	𫛚	견
+U+2B6DB	𫛛	지
+U+2B6DC	𫛜	부
+U+2B6DD	𫛝	환
+U+2B6DE	𫛞	격
+U+2B6DF	𫛟	롱
+U+2B6E0	𫛠	찰
+U+2B6E1	𫛡	핍
+U+2B6E2	𫛢	녕
+U+2B6E3	𫛣	율
+U+2B6E4	𫛤	가
+U+2B6E5	𫛥	겹
+U+2B6E6	𫛦	오
+U+2B6E7	𫛧	추
+U+2B6E8	𫛨	병
+U+2B6E9	𫛩	안
+U+2B6EA	𫛪	여
+U+2B6EB	𫛫	원
+U+2B6EC	𫛬	도
+U+2B6ED	𫛭	광
+U+2B6EE	𫛮	별
+U+2B6EF	𫛯	방
+U+2B6F0	𫛰	기
+U+2B6F1	𫛱	탁
+U+2B6F2	𫛲	조
+U+2B6F3	𫛳	복
+U+2B6F4	𫛴	단
+U+2B6F5	𫛵	굴
+U+2B6F6	𫛶	칙
+U+2B6F7	𫛷	호
+U+2B6F8	𫛸	제
+U+2B6F9	𫛹	묘
+U+2B6FA	𫛺	후
+U+2B6FB	𫛻	탁
+U+2B6FC	𫛼	규
+U+2B6FD	𫛽	률
+U+2B6FE	𫛾	서
+U+2B6FF	𫛿	
+U+2B700	𫜀	신
+U+2B701	𫜁	별
+U+2B702	𫜂	장
+U+2B703	𫜃	음
+U+2B704	𫜄	준
+U+2B705	𫜅	환
+U+2B706	𫜆	류
+U+2B707	𫜇	
+U+2B708	𫜈	매
+U+2B709	𫜉	
+U+2B70A	𫜊	온
+U+2B70B	𫜋	궤
+U+2B70C	𫜌	
+U+2B70D	𫜍	린
+U+2B70E	𫜎	궤
+U+2B70F	𫜏	린
+U+2B710	𫜐	
+U+2B711	𫜑	풍
+U+2B712	𫜒	타
+U+2B713	𫜓	견
+U+2B714	𫜔	비
+U+2B715	𫜕	곡
+U+2B716	𫜖	
+U+2B717	𫜗	리
+U+2B718	𫜘	황;형
+U+2B719	𫜙	잉
+U+2B71A	𫜚	
+U+2B71B	𫜛	대
+U+2B71C	𫜜	
+U+2B71D	𫜝	
+U+2B71E	𫜞	잉;묵
+U+2B71F	𫜟	추;축
+U+2B720	𫜠	우
+U+2B721	𫜡	
+U+2B722	𫜢	일
+U+2B723	𫜣	등
+U+2B724	𫜤	
+U+2B725	𫜥	
+U+2B726	𫜦	보
+U+2B727	𫜧	녕
+U+2B728	𫜨	파
+U+2B729	𫜩	설
+U+2B72A	𫜪	교
+U+2B72B	𫜫	
+U+2B72C	𫜬	색
+U+2B72D	𫜭	소
+U+2B72E	𫜮	언
+U+2B72F	𫜯	개;계
+U+2B730	𫜰	알
+U+2B731	𫜱	
+U+2B732	𫜲	롱
+U+2B733	𫜳	염
+U+2B734	𫜴	
